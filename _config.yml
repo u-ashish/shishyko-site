@@ -1,0 +1,27 @@
+title: shishyko - About
+email: hey@shishyko.com
+description: shishyko takes little stabs at big problems.
+baseurl: ""
+url: "https://shishyko.com"
+github_username: u-ashish
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-postcss
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Tailwind CSS configuration
+tailwind:
+  config_file: tailwind.config.js
+  css_file: assets/css/tailwind.css
