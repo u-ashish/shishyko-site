@@ -1,49 +1,75 @@
----
-layout: default
-title: shishyko
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap">
+</head>
+<body>
+    <div class="stitch-pattern"></div>
+    <header role="banner">
+        <a href="/" class="logo">
+            <pre class="ascii-art">*shishyko!</pre>
+        </a>
+        <nav role="navigation">
+            <div><a href="https://ashishuppala.com" target="_blank">about</a></div>
+            <!-- <div><a href="#projects">work</a></div> -->
+            <div><a href="#contact">contact</a></div>
+        </nav>
+    </header>
 
-<div class="grid md:grid-cols-2 gap-6">
-  <div>
-    <!-- <svg class="illo mx-auto mb-16 w-4/5 max-w-sm md:max-w-md" alt="needle-graphic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2084.8 1859.3"> -->
-      <!-- SVG path data here -->
-    </svg>
-  </div>
-  <div>
-    <h1 class="text-lg mb-8">Tiny stabs at big problems</h1>
-    <h2 class="text-shishyko-link mt-8">About</h2>
-    <p class="mb-4 max-w-prose">shishyko is a software & design studio by <a href="https://ashishuppala.com" class="border-b border-shishyko-link">Ashish Uppala</a>.</p>
-    <h2 class="text-shishyko-link mt-8">Meet Ashish</h2>
-    <p class="mb-4 max-w-prose">I've worn a number of hats, from pre-clinical and clinical research at the National Cancer Institute to working as a software engineer in various industries. I was the first hire and later stepped in as CTO of <a href="https://scite.ai">scite.ai</a>.</p>
-    <p class="mb-4 max-w-prose">If you'd like more information on me, you can visit <a href="https://ashishuppala.com" class="border-b border-shishyko-link">my personal site</a>.</p>
-    <p class="mb-4">Email: <a href="mailto:hi@shishyko.com" class="border-b border-shishyko-link">hi@shishyko.com</a></p>
-  </div>
-</div>
+    <main>
+        <h1><span style="font-style: italic; color: var(--accent-color); font-family: var(--mono-font); font-weight: 600;">shishyko!</span> is a product design studio that takes tiny stabs at big problems.</h1>
 
-<div class="grid grid-cols-4 gap-8 mt-16">
-  <div class="col-span-2 flex justify-end">
-    <div class="w-full md:w-1/2">
-      <h2 class="text-shishyko-link mt-8">Skills</h2>
-      <ul>
-        <li>Software Engineering</li>
-        <li>Product / UX Design</li>
-      </ul>
-    </div>
-  </div>
+        <section id="explorations">
+            <div class="section-header">━━ conceptual exploration</div>
+            <div class="project-grid">
+                <article class="project">
+                    <div class="project-title">Generative Data Briefs</div>
+                    <p>How might data visualizations change with generative AI? I prototyped dynamically generated visualizations in a UI from static datasets.</p>
+                    <a href="#" class="project-link">Check it out</a>
+                </article>
+                <article class="project">
+                    <div class="project-title">Object Storage for Embeddings</div>
+                    <p>Couple things I learned rolling my own solution to store and retrieve vector embeddings in an attempt to save money.</p>
+                    <a href="#" class="project-link">View case study</a>
+                </article>
+            </div>
+        </section>
 
-  <div class="col-span-1">
-    <h2 class="text-shishyko-link mt-8">Previously at</h2>
-    <ul>
-      <li>scite.ai</li>
-      <li>Ark Light Security</li>
-      <li>Capital One</li>
-    </ul>
-  </div>
+        <section id="projects">
+            <div class="section-header">━━ work</div>
+            <div class="project-grid">
+                <article class="project">
+                    <div class="project-title">Asimov Press</div>
+                    <p>Working on a fun little data brief project with Niko!</p>
+                    <!-- <a href="#" class="project-link"></a> -->
+                </article>
+                <article class="project">
+                    <div class="project-title">Asimov Press</div>
+                    <p>Working on a fun little data brief project with Niko!</p>
+                    <!-- <a href="#" class="project-link"></a> -->
+                </article>
+                <article class="project">
+                    <div class="project-title">ArkLight Security</div>
+                    <p>Helped a cybersecurity startup in the early days go from 0 to 1.</p>
+                    <a href="#" class="project-link">View case study</a>
+                </article>
+                <article class="project">
+                    <div class="project-title">Moonlight Work</div>
+                    <p>Did a Vue2 -> Vue3 migration in a few days on a codebase that wasn't maintained for years.</p>
+                    <a href="#" class="project-link">View case study</a>
+                </article>
+            </div>
+        </section>
 
-  <div class="col-span-1">
-    <h2 class="text-shishyko-link mt-8">Contact</h2>
-    <ul>
-      <li><a href="mailto:hi@shishyko.com" class="border-b border-shishyko-link">Email Ashish</a></li>
-    </ul>
-  </div>
-</div>
+        <section id="contact">
+            <div class="section-header">━━ contact</div>
+            <p class="lead">Get in touch: <a href="shishyko@gmail.com">shishyko@gmail.com</a></p>
+        </section>
+    </main>
+</body>
+</html> 
