@@ -244,7 +244,7 @@ section {
 /* Typography */
 p {
     margin: 0 0 1rem;
-    max-width: 35em;
+    /* max-width: 35em; */
 }
 
 a {
@@ -326,4 +326,30 @@ a:hover {
     background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%230f172a' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
     z-index: -2;
     pointer-events: none;
+}
+
+.full-width-section {
+    margin: 2rem -2rem;
+    padding: 2rem;
+    /* background: var(--background-alt, #0a0a0a); */
+    border-top: 1px solid var(--border-color, #1a1a1a);
+    border-bottom: 1px solid var(--border-color, #1a1a1a);
+}
+
+.progress-bar {
+    margin-top: 1.5rem;
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--accent-color, #666);
+}
+
+.progress-line {
+    font-size: 0.9rem;
+    letter-spacing: 0.1em;
+}
+
+@media (max-width: 768px) {
+    .full-width-section {
+        margin: 2rem -1rem;
+        padding: 1.5rem;
+    }
 }
