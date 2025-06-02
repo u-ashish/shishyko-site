@@ -103,7 +103,7 @@ body > header {
     left: 0;
     right: 0;
     bottom: -4px;
-    border-bottom: 1px dashed var(--primary-blue-color);
+    /* border-bottom: 1px dashed var(--primary-blue-color); */
 }
 
 
@@ -166,11 +166,6 @@ section {
 }
 
 /* Projects Section */
-
-#essays {
-    background-color: var(--bg-color);
-    padding: 1.5rem;
-}
 
 .section-header {
     color: var(--denim-red);
@@ -514,6 +509,11 @@ a:hover {
     margin: 3rem 0 4rem;
 }
 
+.homepage-section {
+    background-color: var(--bg-color);
+    padding: 1.5rem;
+}
+
 /* Coming Soon Section */
 .coming-soon {
     opacity: 0.8;
@@ -546,7 +546,7 @@ a:hover {
 
 #contact a {
     color: var(--denim-red);
-    border-bottom: 1px dashed var(--denim-red);
+    /* border-bottom: 1px dashed var(--denim-red); */
     transition: all 0.2s ease;
 }
 
