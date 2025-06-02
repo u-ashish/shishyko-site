@@ -445,7 +445,7 @@ a:hover {
 /* Refined Essay Card Styling */
 .essay {
     position: relative;
-    padding: 1.5rem;
+    padding: 1rem;
     border-left: 2px solid var(--primary-blue-color);
     background: var(--bg-color);
     transition: all 0.2s ease;
