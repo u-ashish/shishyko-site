@@ -1,6 +1,6 @@
 ---
 title: "A New Scientific Operating System"
-series: "Wisdom Work"
+series: "SciOS"
 author: "Ashish Uppala"
 date: "June 2025"
 abstract: "AI, and other 'black swan' events, are set to transform how we do science. This essay explores how we got here, and what a new scientific operating system might look like."
