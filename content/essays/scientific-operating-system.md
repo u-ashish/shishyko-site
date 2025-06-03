@@ -119,7 +119,9 @@ Scientists are hackers and painters. They are creative, intelligent, logical. Th
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a new system comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-In future essays from my SciOS series, I'm going to continue exploring aspects of this stack, from new funding models to new tools emerging in this rapidly evolving space.
+There's certainly overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: opening up science in the digital age. In doing so, my hope is that this creates a timely, big picture view of the system with more context around points of leverage for actionable change.
+
+So keep an eye out for future essays in the SciOS series that explore new funding models and new tools emerging in this rapidly evolving space.
 
 This is the beginning of a conversation. If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — reach out: shishyko@gmail.com
 
