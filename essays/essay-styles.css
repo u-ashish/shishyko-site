@@ -5,6 +5,9 @@
     border-radius: 2rem;
     padding: 4rem;
     background-color: #EBE9E7;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 .essay-header {
@@ -159,9 +162,39 @@
 
     .essay-content {
         padding: 0;
+        background-color: unset;
+        box-shadow: unset;
     }
     
     .essay-header-content {
         grid-column: 1;
+    }
+
+    .essay-header h1 {
+        font-size: 2rem;
+    }
+
+    .essay-header h2 {
+        font-size: 1.75rem;
+    }
+
+    .essay-abstract {
+        font-size: 1.1rem;
+    }
+
+    .essay-body {
+        font-size: 1rem;
+    }
+
+    .essay-body h2 {
+        font-size: 1.5rem;
+    }
+
+    .essay-body h3 {
+        font-size: 1.25rem;
+    }
+
+    .essay-body blockquote {
+        font-size: 1.1rem;
     }
 } 
