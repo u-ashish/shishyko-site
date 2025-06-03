@@ -70,7 +70,7 @@ Worse, it has significant inertia, which makes even incremental change virtually
 
 ## A Shifting Federal Landscape
 
-Recent political events are (arguably) a black swan event. Much of the federal framework used to fund science is being dismantled, and universities are looking to identify alternative sources of revenue (from indirect costs on grants to something else), and face an unbundling of different functions they took on in the last few decades.
+Recent political events are (arguably) a black swan event. Much of the federal framework used to fund science is being dismantled, and universities are looking for alternative sources of revenue while [facing an unbunding](https://www.unbundle-the-university.com/) of different functions they took on in the last few decades.
 
 Time will tell exactly how this plays out, but these changes are already opening the door for new models of experimentation between universities, ecosystem developers (venture, foundations, etc.) like Portal Innovations, and industry, and encouraging researchers to explore other sources of research funding besides federal grants.
 
@@ -78,7 +78,7 @@ Is the revenue cliff universities face from a decline in grants / indirect costs
 
 I'd argue it's insufficient by itself because universities can adapt by exploring other funding opportunities (foundations, donors, etc.) and hedging by exploring industry partnerships and commercialization activity.
 
-But it is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to bring money in, and helps groups like Astera Institute or Convergent Research to experiment with new ways of funding science, on their own terms.
+But it is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to bring money in, and helps groups like [Astera Institute](https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms.
 
 How do we actually ensure that these new models, if successful, actually stay?
 
