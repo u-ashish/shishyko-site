@@ -58,6 +58,7 @@ Consider the perspective of a university: if a significant portion of revenue co
 Indeed this is all-too familiar for most scientists, and this became the de-facto system everyone participates in.
 
 While this kind of a system can work, it has led to a number of issues.
+
 - The creation of silos of information that are not interoperable between research institutes and labs
 - A disincentive to publish important findings. Why share something as soon as you have it, if you can mine it for a little more to get ahead of someone else? *(This one I've witnessed first hand when I was doing research)*
 - A disincentive to publish negative results
