@@ -32,7 +32,11 @@ Over time, others entered the orbit of this budding scientific system. Most nota
 
 ## How "Science" is Done
 
-Scholarly societies and publishers started out as communities of scientists who found each other, shared their findings, and built on their collective understanding of the world. At one point time (think printing press), this made a ton of sense.
+Science historically started off closed, but has been marked by moments of societal pressure that force it to open up.
+
+Scholarly societies began as communities of scientists who found each other, shared their findings, and built on their collective understanding of the world. But early on, especially before journals existed, scientists in societies were pressured to keep their findings secret, in part due to the aristocratic patronage model, but also because of the need to prove priority on inventions.
+
+Scientists would use cyphers to encode their findings and reveal their discovery later on when the time was right. Eventually, journals were formed and helped streamline the dissemination of scientific knowledge.
 
 As new technologies emerged (the glorious internet), publishers needed to find ways to maintain their relevance - they are, after all, businesses, with a mandate to not just exist, but grow.
 
@@ -45,7 +49,7 @@ One way to create staying power as a publisher is to:
 	- Ensuring that citations -- the primary mechanism to build on scientific knowledge -- becomes a currency for one's career through impact, rankings, and more, by working with indices and agencies that track these measures
 	- Creating secondary mechanisms of career advancement -- through professional networks, and more, mediated by your society.
 
-This is not an evil scheme by publishers tricking everyone else, but an optimization by all players around the perverse incentives they have.
+This is not an evil scheme by publishers tricking everyone else, but an optimization by all players around the perverse incentives they have. 
 
 Consider the perspective of a university: if a significant portion of revenue comes from indirect costs on grants, how do we retain faculty securing those grants?
 
@@ -54,7 +58,7 @@ Consider the perspective of a university: if a significant portion of revenue co
 
 Indeed this is all-too familiar for most scientists, and this became the de-facto system everyone participates in.
 
-While this kind of a system has some good, it's also led to a number of issues.
+And so, journals and publishers, once useful and serving an important need, have gradually morphed the system with universities and federal funding into something with a number of issues:
 
 - The creation of silos of information that are not interoperable between research institutes and labs
 - A disincentive to publish important findings. Why share something as soon as you have it, if you can mine it for a little more to get ahead of someone else? *(This one I've witnessed first hand when I was doing research)*
@@ -64,9 +68,8 @@ While this kind of a system has some good, it's also led to a number of issues.
 - Getting a publication is treated like a stamp of approval. "This is good enough and everything looks right and sound".
 - A narrative driven format for scientific findings, instead of a focus on the facts and "knowledge units"
 
-Such a system may have been sensible decades ago, but is ill-equipped to face the challenges in today's information and knowledge age.
 
-Worse, it has significant inertia, which makes even incremental change virtually impossible.
+Worse, the system over time has significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
 
 ## A Shifting Federal Landscape
 
@@ -104,6 +107,7 @@ Stated differently, such a system should:
 - Make things like replication checks, data sharing, etc. native to the system
 - Create norms that reward and incentivize **openness instead of secrecy**
 - Give granular attribution for scientists -- not just first and last authors
+- Help scientists build their prestige through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
 
 Though the technology and infrastructure was always possible for some of these, it feels much more realistic in an agentic world. Large language models are rapidly getting us to a point where we can:
 
@@ -119,11 +123,13 @@ Scientists are hackers and painters. They are creative, intelligent, logical. Th
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a new system comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-There's certainly overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: opening up science in the digital age. In doing so, my hope is that this creates a timely, big picture view of the system with more context around points of leverage for actionable change.
+There's certainly overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: opening up science in the digital age.
 
-So keep an eye out for future essays in the SciOS series that explore new funding models and new tools emerging in this rapidly evolving space.
+My hope is that this creates a timely, big picture view of the system with more context around points of leverage for actionable change.
 
-This is the beginning of a conversation. If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — reach out: shishyko@gmail.com
+So keep an eye out for future essays in the SciOS series that explore new funding models and new tools emerging in this rapidly evolving space. This is just the beginning.
+
+If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — reach out: shishyko@gmail.com
 
 
 
