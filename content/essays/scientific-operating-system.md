@@ -8,7 +8,7 @@ abstract: "AI, and other 'black swan' events, are set to transform how we do sci
 
 > Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice, in the manner dictated by their curiosity for exploration of the unknown. - Vannevar Bush
 
-What a whirlwind year it's been. 2025. Generative AI is transforming the way we process raw data and information, with drastic impact across industries, and a breakneck speed of progress. 
+What a whirlwind year it's been. 2025. Generative AI is transforming the way we process raw data and information, with rapid, drastic impact across industries. 
 
 Perhaps more significant is its timing: a moment in history where the scientific funding framework in the United States is towards the tail end of the post-world war 2 order, and when the scientific publishing ecosystem has been revealing its cracks under an exponentially increasing volume of information over the past two decades.
 
