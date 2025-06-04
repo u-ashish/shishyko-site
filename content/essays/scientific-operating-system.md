@@ -16,9 +16,9 @@ Today, we take much of this history for granted.
 
 What most people experience, and think about, are the amazing results of scientific progress - not just intellectually, but in its real impact. Consider the last few decades, which brought CRISPR gene editing, the Human Genome Project, MRI, CAR-T cell therapy (which still feels like science fiction), and more.
 
-And yet, scientists, who are the core of this institution, face a system that actively opresses their fundamental desires. How much better could things be if we even had a chance at addressing these critical issues?
+And yet, scientists, who are the core of this institution, face a system that actively opresses their fundamental desires to work on interesting or meaningful problems in their respective domains. How much better could things be if we even had a chance at addressing the critical issues our existing system produces?
 
-Indeed these issues vary by scientific discipline, and there have been attempts from within the system over recent decades (think of Open Science, etc.), but there was always significant institutional inertia that made it difficult to meaningfully experiment with new ideas.
+Indeed these issues vary by scientific discipline, and there have been attempts to improve things from within over recent decades (think of Open Science, etc.). But significant institutional inertia made it difficult to meaningfully experiment with new approaches.
 
 Until now.
 
@@ -55,7 +55,7 @@ One way to create staying power as a publisher is to:
 
 This is not an evil scheme by publishers tricking everyone else, but an optimization by all players around the perverse incentives they have. 
 
-Consider the perspective of a university, which gets significant research funding through taxpayer dollars via indirect costs on grants: how do we recruit and retain faculty securing those grants?
+Consider the perspective of a university, which gets significant revenue through taxpayer dollars via indirect costs on grants: how do we recruit and retain faculty securing those grants?
 
 - Tie faculty tenure to publications, impact, and prestige (with the help of publishers, ranking agencies, and more)
 - Work with citation indices and publishers to improve the "brand value" of the university to attract new faculty that might bring more grant revenue
@@ -130,13 +130,11 @@ Scientists are hackers and painters. They are creative, intelligent, logical. Th
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-There's certainly overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: opening up science in the digital age.
+There's certainly overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: _how_ we actually open up science in the digital age.
 
 My hope is that this serves as a timely, big picture view of the system with more context around points of leverage for actionable change.
 
-In future essays from my SciOS series, I'm going to put more thought into new funding models, and new tools emerging in this rapidly evolving space. There's already a race underway with new funding models, approaches for data infrastructure, AI scientists, and more.
-
-This is just the beginning.
+In future essays from my SciOS series, I'm going to put more thought into new funding models, infrastructure, and tools emerging in this rapidly evolving space. This is just the beginning.
 
 If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — would love to chat: shishyko@gmail.com
 
