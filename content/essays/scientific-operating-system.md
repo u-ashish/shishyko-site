@@ -88,11 +88,13 @@ How do we ensure that these new models, if successful, actually stay and work in
 
 Like other industries, many problems within science are structural. They aren't technology problems to be solved through a new app. But, leveraging technology to support a new, modern infrastructure for more open, collaborative science can create the structural shift the system needs and give these new models the necessary power to stay.
 
-If uncertainty at the federal level is creating one set of opportunities around scientific inquiry and commercialization, recent advances in large language models unlock our ability to give new scientific infrastructure real staying power.
+While uncertainty at the federal level is creating one set of opportunities around new funding models and infrastructure for basic science, recent advances in large language models unlock our ability to new approaches real staying power.
 
 Many of the mechanisms we've built were predicated on data and information being worked on at what I call *people scale*: the natural limits at which a group of people can reasonably organize and do things (think analysts, peer review, etc.).
 
-What does a new Scientific Operating System look like that preserves the basic tenets of scientific inquiry, without compromising the benefits of science for humanity? And how can we ensure that it continues to celebrate the people involved in doing great science, without putting the individual above the institution?
+What does a new Scientific Operating System look like that preserves the basic tenets of scientific inquiry, without compromising the benefits of science for humanity?
+
+And how can we ensure that it continues to celebrate the people involved in doing great science, without putting the individual above the institution?
 
 A well-designed Scientific Operating System — meaning the infrastructure, tools, norms, and institutions that support the full lifecycle of scientific inquiry — should _optimize for truth-seeking, openness, collaboration, and impact_.
 
@@ -115,8 +117,8 @@ Though the technology and infrastructure was always possible for some of these (
 Large language models are rapidly getting us to a point where we can:
 
 - Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) as one example)
-- Have new ways to formulate hypotheses and analyze data
-- Run faster experiments that we can scale through machine-readable, interoperable data around priors
+- Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/) and [PotatoAI](https://readysetpotato.com/))
+- Run faster experiments that we can scale through machine-readable, interoperable data
 - Streamline how we communicate findings and build on our existing knowledge
 
 When new models of funding science are combined with new infrastructure and new technology, there's an opportunity to fundamentally transform how basic science (well before we think about commercialization) is done.
@@ -127,9 +129,9 @@ Scientists are hackers and painters. They are creative, intelligent, logical. Th
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-There's definitely overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem with a focus on execution to open up science in the digital age.
+Universities will still play a critical role in this. But the institutional inertia created by universities, publishers, and a federal funding framework needs to change so the system can adapt and tackle some of the inefficiencies plaguing scientists.
 
-We're already seeing new approaches for funding outside of the government. What we need is a set of standards, infrastructure, and technology to take this one step further.
+There's overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but an execution focused lens on a similar problem: opening up science in the digital age.
 
 My hope as I continue to flesh out these thoughts in future essays is to explore questions like:
 
