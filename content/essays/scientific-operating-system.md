@@ -90,7 +90,7 @@ I'd argue it's insufficient by itself because universities can adapt by explorin
 
 But it is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to bring money in, and helps groups like [Astera Institute](https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms.
 
-How do we actually ensure that these new models, if successful, actually stay?
+How do we ensure that these new models, if successful, actually stay?
 
 ## The Generative AI Moment
 
