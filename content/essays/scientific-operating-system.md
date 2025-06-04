@@ -74,7 +74,7 @@ And so, journals and publishers, while serving an important, core need, have gra
 
 Are there some disciplines in science where these problems are not as big?
 
-Certainly, especially in technical fields which bave been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ml/ai).
+Certainly, especially in technical fields which have been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ml/ai).
 
 Yet, other fields with high impact on society -- life sciences, etc. remain plagued by these issues. While there are attempts to experiment from within, they're met with significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
 
