@@ -8,35 +8,39 @@ abstract: "AI, and other 'black swan' events, are set to transform how we do sci
 
 > Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice, in the manner dictated by their curiosity for exploration of the unknown. - Vannevar Bush
 
-What a whirlwind year it's been. 2025. Generative AI is transforming the way we process raw data and information, with rapid, drastic impact across industries. 
+Would you believe me if I told you, that way back in the day, scientists like Newton would use cyphers to encrypt their findings when publishing, and only decode them when it was time to make a claim or prove priority?
 
-Perhaps more significant is its timing: a moment in history where the scientific funding framework in the United States is towards the tail end of the post-world war 2 order, and when the scientific publishing ecosystem has been revealing its cracks under an exponentially increasing volume of information over the past two decades.
+It wasn't until the advent of journals that science became more open with more sharing across scientists in various disciplines (see The Royal Society and others).
 
-The whole system is gearing up to buckle under the pressure and create opportunities for a once-in-a-century rewrite of the Scientific Operating System (SciOS) -- from discovery to commercialization.
+Today, we take much of this history for granted.
 
-How did we get here? And what might come next?
+What most people experience, and think about, are the amazing results of scientific progress - not just intellectually, but in its real impact. Consider the last few decades, which brought CRISPR gene editing, the Human Genome Project, MRI, CAR-T cell therapy (which still feels like science fiction), and more.
 
-## Framework for Scientific Progress
+And yet, scientists, who are the core of this institution, face a system that actively opresses their fundamental desires. How much better could things be if we even had a chance at addressing these critical issues?
 
-Science is amazing -- not just intellectually, but in its real impact. We've witnessed many amazing discoveries and programs over the last few decades: CRISPR gene editing, the Human Genome Project, MRI, and more.
+Indeed these issues vary by scientific discipline, and there have been attempts from within the system over recent decades (think of Open Science, etc.), but there was always significant institutional inertia that made it difficult to meaningfully experiment with new ideas.
+
+Until now.
+
+I argue that there are two key events in recent months - at the federal level in the United States, and recent advances in generative AI - that create the necessary opening for new models, and infrastructure for science to not just enter, but persist.
+
+How did we get here? And what does a potential, new Scientific Operating System (SciOS) entail?
+
+## Existing Framework for Scientific Progress
 
 Nurturing systems to promote scientific inquiry and progress -- with respect to research direction, advancement of knowledge, development of technologies in public interest, and the nurture of scientific talent -- is a key concern of any society.
 
-After World War 2, Vannevar Bush wrote his famous memo, *Science -- The Endless Frontier* to outline the importance of a framework for relationships between the federal government and universities to maintain global relevance for the United States. This led to the creation of a framework where the federal government would fund basic research done at Universities, developed a pipeline for domestic scientific talent, and more.
+After World War 2, Vannevar Bush wrote his famous memo, *Science, The Endless Frontier* to outline the importance of a framework for relationships between the federal government and universities to maintain global relevance for the United States. This led to the creation of a framework where the federal government would fund basic research done at Universities, developed a pipeline for domestic scientific talent, and more.
 
 Shortly after, we had the Bayh-Dole Act, which intended to ensure that tax-payer funded research would not only advance knowledge, but be translated into technologies, products, or services that benefitted the public.
 
 Universities not only became key pipelines of scientific talent and centers of basic research, but evolved into engines of innovation through Technology Transfer Offices (TTO), and more. They continued to bundle more and more functions into their overall purpose in society.
 
-Over time, others entered the orbit of this budding scientific system. Most notable were scholarly societies and publishers, which started well before as a way to disseminate scientific knowledge, but increasingly cemented themselves and shaped how science is done, and how new knowledge is, and is not shared.
+Over time, others entered the orbit of this budding scientific system. Most notable were scholarly societies and publishers, which started well before as a way to disseminate scientific knowledge, but increasingly cemented themselves and influenced how science is done, and how new knowledge is, and is not shared.
 
-## How "Science" is Done
+## "Science" Today
 
-Science historically started off closed, but has been marked by moments of societal pressure that force it to open up.
-
-Scholarly societies began as communities of scientists who found each other, shared their findings, and built on their collective understanding of the world. But early on, especially before journals existed, scientists in societies were pressured to keep their findings secret, in part due to the aristocratic patronage model, but also because of the need to prove priority on inventions.
-
-Scientists would use cyphers to encode their findings and reveal their discovery later on when the time was right. Eventually, journals were formed and helped streamline the dissemination of scientific knowledge.
+Scholarly societies began as communities of scientists who found each other, shared their findings, and built on their collective understanding of the world. Though early on, scientists would use cyphers to encode their findings, journals were eventually formed to streamline the dissemination of scientific knowledge.
 
 As new technologies emerged (the glorious internet), publishers needed to find ways to maintain their relevance - they are, after all, businesses, with a mandate to not just exist, but grow.
 
@@ -51,14 +55,14 @@ One way to create staying power as a publisher is to:
 
 This is not an evil scheme by publishers tricking everyone else, but an optimization by all players around the perverse incentives they have. 
 
-Consider the perspective of a university: if a significant portion of revenue comes from indirect costs on grants, how do we retain faculty securing those grants?
+Consider the perspective of a university, which gets significant research funding through taxpayer dollars via indirect costs on grants: how do we recruit and retain faculty securing those grants?
 
 - Tie faculty tenure to publications, impact, and prestige (with the help of publishers, ranking agencies, and more)
 - Work with citation indices and publishers to improve the "brand value" of the university to attract new faculty that might bring more grant revenue
 
 Indeed this is all-too familiar for most scientists, and this became the de-facto system everyone participates in.
 
-And so, journals and publishers, once useful and serving an important need, have gradually morphed the system with universities and federal funding into something with a number of issues:
+And so, journals and publishers, while serving an important, core need, have gradually morphed the system with universities and federal funding into something with a number of issues:
 
 - The creation of silos of information that are not interoperable between research institutes and labs
 - A disincentive to publish important findings. Why share something as soon as you have it, if you can mine it for a little more to get ahead of someone else? *(This one I've witnessed first hand when I was doing research)*
@@ -68,8 +72,9 @@ And so, journals and publishers, once useful and serving an important need, have
 - Getting a publication is treated like a stamp of approval. "This is good enough and everything looks right and sound".
 - A narrative driven format for scientific findings, instead of a focus on the facts and "knowledge units"
 
+Are there some disciplines in science where these are not as big? Certainly, especially in technical fields where much of the methodology and approach has been influenced by Open Source software, which made it easier to embrance Open Science methodology (physics, computer science, ml/ai).
 
-Worse, the system over time has significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
+Yet, other fields with high impact on society -- life sciences, etc. remain plagued by these issues. While there are attempts to experiment from within, they're met with significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
 
 ## A Shifting Federal Landscape
 
@@ -77,7 +82,7 @@ Recent political events are (arguably) a black swan event. Much of the federal f
 
 Time will tell exactly how this plays out, but these changes are already opening the door for new models of experimentation between universities, ecosystem developers (venture, foundations, etc.) like Portal Innovations, and industry, and encouraging researchers to explore other sources of research funding besides federal grants.
 
-Is the revenue cliff universities face from a decline in grants / indirect costs enough to change how science is fundamentally done?
+Is the revenue cliff universities face from a decline in grants / indirect costs enough to change how science is fundamentally done, or even leave the door open long enough for new, open, collaborative models of doing, distributing, and advancing science?
 
 I'd argue it's insufficient by itself because universities can adapt by exploring other funding opportunities (foundations, donors, etc.) and hedging by exploring industry partnerships and commercialization activity.
 
@@ -87,15 +92,15 @@ How do we actually ensure that these new models, if successful, actually stay?
 
 ## The Generative AI Moment
 
-Like other industries, many problems are structural, and aren't technology problems to be solved through a new app. But, leveraging technology to support a new, modern infrastructure for more open, collaborative science can create the structural shift the system needs and give these new models the necessary power to stay.
+Like other industries, many problems are structural. They aren't technology problems to be solved through a new app. But, leveraging technology to support a new, modern infrastructure for more open, collaborative science can create the structural shift the system needs and give these new models the necessary power to stay.
 
 If uncertainty at the federal level is creating one set of opportunities around scientific inquiry and commercialization, recent advances in large language models unlock our ability to give new scientific infrastructure real staying power.
 
 Many of the mechanisms we've built were predicated on data and information being worked on at what I call "people scale": the natural limits at which a group of people can reasonably organize and do things (think analysts, peer review, etc.).
 
-What does a new scientific operating system (SciOS) look like that preserves the basic tenets of scientific inquiry, without compromising the benefits of science for humanity?
+What does a new scientific operating system (SciOS) look like that preserves the basic tenets of scientific inquiry, without compromising the benefits of science for humanity? And how can we ensure that it continues to celebrate the people involved in doing great science, without putting the individual above the institution?
 
-A well-designed scientific operating system — meaning the infrastructure, tools, norms, and institutions that support the full lifecycle of scientific inquiry — should **optimize for truth-seeking, openness, collaboration, and impact**.
+A well-designed scientific operating system — meaning the infrastructure, tools, norms, and institutions that support the full lifecycle of scientific inquiry — should _optimize for truth-seeking, openness, collaboration, and impact_.
 
 In essence, it should _let good science happen faster, more reliably, and more inclusively_.
 
@@ -107,7 +112,9 @@ Stated differently, such a system should:
 - Make things like replication checks, data sharing, etc. native to the system
 - Create norms that reward and incentivize **openness instead of secrecy**
 - Give granular attribution for scientists -- not just first and last authors
-- Help scientists build their prestige through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
+- Ensure scientists can build their prestige through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
+
+Tracing the thread of science across centuries, it's clear that prestige has played a common, significant role -- initially through the prestige of aristocratic patrons and now through institutional prestige (and of course, the scientist's own prestige).
 
 Though the technology and infrastructure was always possible for some of these, it feels much more realistic in an agentic world. Large language models are rapidly getting us to a point where we can:
 
@@ -121,15 +128,17 @@ When new models of funding science are combined with new technologies and new in
 
 Scientists are hackers and painters. They are creative, intelligent, logical. They want to creatively express themselves, and solve problems they find interesting. The incumbent system oppresses this core desire.
 
-A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a new system comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
+A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
 There's certainly overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: opening up science in the digital age.
 
-My hope is that this creates a timely, big picture view of the system with more context around points of leverage for actionable change.
+My hope is that this serves as a timely, big picture view of the system with more context around points of leverage for actionable change.
 
-So keep an eye out for future essays in the SciOS series that explore new funding models and new tools emerging in this rapidly evolving space. This is just the beginning.
+In future essays from my SciOS series, I'm going to put more thought into new funding models, and new tools emerging in this rapidly evolving space. There's already a race underway with new funding models, approaches for data infrastructure, AI scientists, and more.
 
-If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — reach out: shishyko@gmail.com
+This is just the beginning.
+
+If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — would love to chat: shishyko@gmail.com
 
 
 

@@ -23,7 +23,9 @@
     </header>
 
     <main>
-        <h1><span class="header-logo">shishyko!</span> is a design studio that takes tiny stabs at big problems, through <span class="italic">written explorations</span> and <span class="italic">thoughtful products</span>.</h1>
+        <h1>
+            <span class="header-logo">shishyko!</span> is a design studio that takes tiny stabs at big problems, through <span class="italic">written explorations</span> and <span class="italic">thoughtfully crafted products</span>.
+        </h1>
 
         <section id="writing" class="homepage-section">
             <div class="section-header">━━ writing</div>
@@ -54,12 +56,30 @@
 
         <section id="future-products" class="homepage-section">
             <div class="section-header">━━ products</div>
-            <p class="lead">Still tidying up a few things here. Stay tuned :).</p>
+            <p class="lead">Stay tuned for goodies here :).</p>
         </section>
-
         <section id="contact">
             <div class="section-header">━━ contact</div>
-            <p class="lead">For inquiries and chit-chat: <a href="mailto:shishyko@gmail.com">shishyko@gmail.com</a></p>
+            <div class="contact-container">
+
+                <p class="lead">For inquiries and chit-chat: <a href="mailto:shishyko@gmail.com">shishyko@gmail.com</a></p>
+
+                <form
+                    action="https://buttondown.email/api/emails/embed-subscribe/shishyko"
+                    method="post"
+                    target="popupwindow"
+                    onsubmit='window.open("https://buttondown.email/shishyko", "popupwindow")'
+                    class="email-card"
+                >
+                    <!-- <span class="newsletter-cta">
+                    Read new posts in your inbox
+                    </span> -->
+                    <div class="newsletter-inputs">
+                    <input type="email" name="email" id="bd-email" placeholder="Your email address" />
+                    <input type="submit" value="Subscribe" id="bd-submit" />
+                    </div>
+                </form>
+            </div>
         </section>
     </main>
 </body>
