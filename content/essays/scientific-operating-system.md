@@ -68,7 +68,7 @@ Are there some disciplines in science where these problems are not as big?
 
 I think so, especially in technical fields which have been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ml/ai).
 
-Yet other fields with high impact on society -- life sciences, etc. remain plagued by these issues. While there are attempts to experiment from within, they're met with significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
+Yet other fields with high impact on society -- life sciences, etc. remain plagued by these issues. Attempts to address these from within are met with significant inertia, making any meaningful change to adapt the system to the digital age virtually impossible.
 
 ## A Shifting Federal Landscape
 
@@ -110,14 +110,16 @@ Stated differently, such a system should:
 - Create norms that reward and incentivize **openness instead of secrecy**
 - Ensure scientists can build their prestige in an interpretable way through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
 
-Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world. Large language models are rapidly getting us to a point where we can:
+Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world.
+
+Large language models are rapidly getting us to a point where we can:
 
 - Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) as one example)
 - Have new ways to formulate hypotheses and analyze data
 - Run faster experiments that we can scale through machine-readable, interoperable data around priors
 - Streamline how we communicate findings and build on our existing knowledge
 
-When new models of funding science are combined with new technologies and new infrastructure, there's an opportunity to fundamentally transform how basic science (pre, pre-commercialization) is done.
+When new models of funding science are combined with new infrastructure and new technology, there's an opportunity to fundamentally transform how basic science (well before we think about commercialization) is done.
 
 ## A Once in a Century Rewrite
 
