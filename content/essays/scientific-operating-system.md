@@ -118,6 +118,7 @@ Large language models are rapidly getting us to a point where we can:
 
 - Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) as one example)
 - Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/) and [PotatoAI](https://readysetpotato.com/))
+- Make it easier to harmonize different data sources (see [DevanoAI](https://devano.ai/))
 - Run faster experiments that we can scale through machine-readable, interoperable data
 - Streamline how we communicate findings and build on our existing knowledge
 
