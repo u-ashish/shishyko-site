@@ -82,7 +82,7 @@ Yet, other fields with high impact on society -- life sciences, etc. remain plag
 
 Recent political events are (arguably) a black swan event. Much of the federal framework used to fund science is being dismantled, and universities are looking for alternative sources of revenue while [facing an unbunding](https://www.unbundle-the-university.com/) of different functions they took on in the last few decades.
 
-Time will tell exactly how this plays out, but these changes are already opening the door for new models of experimentation between universities, ecosystem developers (venture, foundations, etc.) like Portal Innovations, and industry, and encouraging researchers to explore other sources of research funding besides federal grants.
+Time will tell exactly how this plays out, but these changes are already opening the door for new models of experimentation between universities and ecosystem developers (venture, foundations, etc.) like Portal Innovations and industry to diversify revenue streams. More importantly, it's encouraging researchers to explore other sources of research funding besides federal grants.
 
 Is the revenue cliff universities face from a decline in grants / indirect costs enough to change how science is fundamentally done, or even leave the door open long enough for new, open, collaborative models of doing, distributing, and advancing science?
 
