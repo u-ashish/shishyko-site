@@ -8,7 +8,7 @@ abstract: "AI, and other 'black swan' events, are set to transform how we do sci
 
 > Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice, in the manner dictated by their curiosity for exploration of the unknown. - Vannevar Bush
 
-Would you believe me if I told you, that way back in the day, scientists like Newton would use anagrams to encode their findings when publishing, and only decode them when it was time to prove priority on a discovery?
+Would you believe me if I told you, that way back in the day, scientists like Newton would withhold sharing findings and instead only share anagrams so they could later prove priority on discovery?
 
 It wasn't until the advent of journals that science became more open with more sharing across scientists in various disciplines (see The Royal Society and others).
 
