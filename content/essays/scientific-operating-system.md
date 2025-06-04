@@ -10,7 +10,7 @@ abstract: "AI, and other 'black swan' events, are set to transform how we do sci
 
 In the past, scientists like Newton would withhold sharing findings and instead only share anagrams so they could later prove priority on discovery. It wasn't until the advent of journals that science became more open with more sharing across scientists in various disciplines (see The Royal Society and others).
 
-Today, we take much of this history of science for granted. Breakthroughs like CRISPR, the Human Genome Project, and CAR-T cell therapy demonstrate science’s impact on our lives. But behind the scenes, scientists still operate within a system that stifles their creativeness and ability to do great science.
+Today, we take much of this history of science for granted. Breakthroughs like CRISPR, the Human Genome Project, and CAR-T cell therapy demonstrate science’s impact on our lives. But behind the scenes, scientists still operate within a system that stifles their creativity and ability to do great science.
 
 Efforts like Open Science have chipped away at these problems, but institutional inertia has limited progress. I argue that two recent shifts -- 1) political upheaval in U.S. federal funding and 2) the rise of generative AI -- create a rare opening for new, enduring models of research funding and infrastructure.
 
