@@ -133,12 +133,13 @@ We're already seeing new approaches for funding outside of the government. What 
 
 My hope as I continue to flesh out these thoughts in future essays is to explore questions like:
 
-- How should experiments, results, and findings ("knowledge units") be stored and shared in a data-first world to speed up the rate of experimentation?
-- How might that vary by discipline?
+- What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")?
+- How do we ensure that we maintain things like attribution, impact while promoting faster experimentation and sharing of results?
+- How might that vary by discipline, if at all?
 - How do we deal with fragmentation in infrastructure systems?
-- What do attribution and measures of impact look like in a knowledge unit world?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
-- As new researcher workflow tools are built to document results and collaborate, how should data be stored? How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats)?
+- As new researcher workflow tools are built to document results and collaborate, how should data be stored?
+- How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats)?
 
 ...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
 
