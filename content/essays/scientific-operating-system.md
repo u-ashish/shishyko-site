@@ -132,9 +132,17 @@ A new Scientific Operating System isn't just a new toolset, or just a new method
 
 There's definitely overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: _how_ we actually open up science in the digital age.
 
-We're already seeing new approaches for funding outside of the government. What we need next is infrastructure and technology to take this one step further: the right way to document and share empirical results ("knowledge units") in a data-first world to speed up the rate of experimentation.
+We're already seeing new approaches for funding outside of the government. What we need next is a set of standards, infrastructure, and technology to take this one step further.
 
-My hope is that this post, and others in this series, serve as a timely, big picture view of the system with more context around points of leverage for actionable change.
+My hope as I continue to flesh out these thoughts in future essays is to explore questions like:
+
+- How should experiments, results, and findings ("knowledge units") be stored and shared in a data-first world to speed up the rate of experimentation?
+- How might that vary by discipline?
+- What do attribution and measures of impact look like in a knowledge unit world?
+- How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
+- As new researcher workflow tools are built to document results and collaborate, how should data be stored? How should we think about data interoperability to foster collaboration?
+
+...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
 
 If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — would love to chat: shishyko@gmail.com
 
