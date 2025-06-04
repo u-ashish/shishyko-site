@@ -8,21 +8,21 @@ abstract: "AI, and other 'black swan' events, are set to transform how we do sci
 
 > Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice, in the manner dictated by their curiosity for exploration of the unknown. - Vannevar Bush
 
-Would you believe me if I told you, that way back in the day, scientists like Newton would use anagrams and cyphers to encode their findings when publishing, and only decode them when it was time to prove priority on a discovery?
+Would you believe me if I told you, that way back in the day, scientists like Newton would use anagrams to encode their findings when publishing, and only decode them when it was time to prove priority on a discovery?
 
 It wasn't until the advent of journals that science became more open with more sharing across scientists in various disciplines (see The Royal Society and others).
 
-Today, we take much of this history for granted.
+Today, we take much of this history of science for granted.
 
 What most people experience, and think about, are the amazing results of scientific progress - not just intellectually, but in its real impact. Consider the last few decades, which brought CRISPR gene editing, the Human Genome Project, MRI, CAR-T cell therapy (which still feels like science fiction), and more.
 
-And yet, scientists, who are the core of this institution, face a system that actively opresses their fundamental desires to work on interesting or meaningful problems in their respective domains. How much better could things be if we even had a chance at addressing the critical issues our existing system produces?
+And yet, scientists, who are the core of this machine, face a system that actively opresses their fundamental desires to work on interesting or meaningful problems in their domains. How much better could things be if we even had a chance at addressing the critical issues our existing system of science produces?
 
 Indeed these issues vary by scientific discipline, and there have been attempts to improve things from within over recent decades (think of Open Science, etc.). But significant institutional inertia made it difficult to meaningfully experiment with new approaches.
 
 Until now.
 
-I argue that there are two key events in recent months - at the federal level in the United States, and recent advances in generative AI - that create the necessary opening for new models, and infrastructure for science to not just enter, but persist.
+I argue that there are two key events in recent months - at the federal level in the United States, and recent advances in generative AI - that create the necessary opening for new funding models and infrastructure for science to not just enter, but persist.
 
 How did we get here? And what does a potential, new Scientific Operating System (SciOS) entail?
 
@@ -40,7 +40,7 @@ Over time, others entered the orbit of this budding scientific system. Most nota
 
 ## "Science" Today
 
-Scholarly societies began as communities of scientists who found each other, shared their findings, and built on their collective understanding of the world. Though early on, scientists would use cyphers to encode their findings, journals were eventually formed to streamline the dissemination of scientific knowledge.
+Scholarly societies began as communities of scientists who found each other, shared their findings, and built on their collective understanding of the world. Though early on, scientists would use anagrams when sharing their findings, journals were eventually formed to streamline the dissemination of scientific knowledge.
 
 As new technologies emerged (the glorious internet), publishers needed to find ways to maintain their relevance - they are, after all, businesses, with a mandate to not just exist, but grow.
 
@@ -69,10 +69,12 @@ And so, journals and publishers, while serving an important, core need, have gra
 - A disincentive to publish negative results
 - An inefficient peer-review system built on underpaid (or unpaid) labor, which simply cannot scale with the exponential rate of increase in new publications *(At a recent conference, someone proposed that publishers pay for coffee for reviewers!)*
 - An incentive to falsify results -- in egregious but also in subtle ways -- to get more funding.
-- Getting a publication is treated like a stamp of approval. "This is good enough and everything looks right and sound".
+- Being published is treated like getting a stamp of approval.
 - A narrative driven format for scientific findings, instead of a focus on the facts and "knowledge units"
 
-Are there some disciplines in science where these are not as big? Certainly, especially in technical fields where much of the methodology and approach has been influenced by Open Source software, which made it easier to embrance Open Science methodology (physics, computer science, ml/ai).
+Are there some disciplines in science where these problems are not as big?
+
+Certainly, especially in technical fields which bave been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ml/ai).
 
 Yet, other fields with high impact on society -- life sciences, etc. remain plagued by these issues. While there are attempts to experiment from within, they're met with significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
 
