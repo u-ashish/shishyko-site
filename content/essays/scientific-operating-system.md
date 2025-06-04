@@ -16,15 +16,13 @@ Today, we take much of this history of science for granted.
 
 What most people experience, and think about, are the amazing results of scientific progress - not just intellectually, but in its real impact. Consider the last few decades, which brought CRISPR gene editing, the Human Genome Project, MRI, CAR-T cell therapy (which still feels like science fiction), and more.
 
-And yet, scientists, who are the core of this machine, face a system that actively opresses their fundamental desires to work on interesting or meaningful problems in their domains. How much better could things be if we even had a chance at addressing the critical issues our existing system of science produces?
+And yet, scientists, who are the core of this machine, face a system that actively opresses their fundamental desires through a wonky set of incentives. How much better could things be if we even had a chance at addressing the critical issues our existing system of science produces?
 
-Indeed these issues vary by scientific discipline, and there have been attempts to improve things from within over recent decades (think of Open Science, etc.). But significant institutional inertia made it difficult to meaningfully experiment with new approaches.
-
-Until now.
+Indeed these problems vary by discipline, and there have been attempts to improve things from within over recent decades (think of Open Science, etc.). But significant institutional inertia made it difficult to meaningfully experiment with new approaches. Until now.
 
 I argue that there are two key events in recent months - at the federal level in the United States, and recent advances in generative AI - that create the necessary opening for new funding models and infrastructure for science to not just enter, but persist.
 
-How did we get here? And what does a potential, new Scientific Operating System (SciOS) entail?
+How did we get here? And what does a potential, new Scientific Operating System (SciOS) for basic research entail?
 
 ## Existing Framework for Scientific Progress
 
@@ -74,23 +72,23 @@ And so, journals and publishers, while serving an important, core need, have gra
 
 Are there some disciplines in science where these problems are not as big?
 
-Certainly, especially in technical fields which have been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ml/ai).
+I think so, especially in technical fields which have been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ml/ai).
 
-Yet, other fields with high impact on society -- life sciences, etc. remain plagued by these issues. While there are attempts to experiment from within, they're met with significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
+Yet other fields with high impact on society -- life sciences, etc. remain plagued by these issues. While there are attempts to experiment from within, they're met with significant inertia, making incremental or drastic change to adapt it to the digital age virtually impossible.
 
 ## A Shifting Federal Landscape
 
 Recent political events are (arguably) a black swan event. Much of the federal framework used to fund science is being dismantled, and universities are looking for alternative sources of revenue while [facing an unbunding](https://www.unbundle-the-university.com/) of different functions they took on in the last few decades.
 
-Time will tell exactly how this plays out, but these changes are already opening the door for new models of experimentation between universities and ecosystem developers (venture, foundations, etc.) like Portal Innovations and industry to diversify revenue streams. More importantly, it's encouraging researchers to explore other sources of research funding besides federal grants.
+Time will tell exactly how this plays out, but these changes are already opening the door for new models of experimentation between universities and ecosystem developers (venture, foundations, etc.) like [Portal Innovations](https://portalinnovations.com) and industry to diversify revenue streams.  This shift is the beginning of an unbundling of University TTO function that I referenced earlier.
 
-Is the revenue cliff universities face from a decline in grants / indirect costs enough to change how science is fundamentally done, or even leave the door open long enough for new, open, collaborative models of doing, distributing, and advancing science?
+What I find more interesting / opportunistic is that the shakiness of the federal funding environment makes universities and researchers increasingly more open to exploring new sources of funding for basic research. That means an opening to de-couple the monopolistic grip that universities and publishers have over how science itself is actually done, and a relaxing of some of the constraints around scientists and their careers.
 
-I'd argue it's insufficient by itself because universities can adapt by exploring other funding opportunities (foundations, donors, etc.) and hedging by exploring industry partnerships and commercialization activity.
+Don't get me wrong. All of this alone is probably insufficient to topple over an old system and replace it with something new. But that's also besides the point.
 
-But it is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to bring money in, and helps groups like [Astera Institute](https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms.
+What we have, in this moment, is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to bring money in, which enables groups like [Astera Institute](https://astera.org) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms.
 
-How do we ensure that these new models, if successful, actually stay?
+How do we ensure that these new models, if successful, actually stay? And if they do stay, what foundational work should they get in place, to start moving the needle on these old incentive structures?
 
 ## The Generative AI Moment
 
@@ -108,66 +106,35 @@ In essence, it should _let good science happen faster, more reliably, and more i
 
 Stated differently, such a system should:
 
+- Continue to fund exploratory research, even without a clear short or medium term ROI, see [Astera Institute for a good example](https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough)
+- Encourage the publication of negative results, which over time will speed up the rate of innovation by mitigating the white space problem
 - Support the publication of **knowledge units**, not just fully formed narratives
+- Give granular attribution for scientists -- not just first and last authors
 - Allow for **continuous iteration** -- meaning publishing intermediate results
 - Make all findings accessible, discoverable, and machine-readable
 - Make things like replication checks, data sharing, etc. native to the system
 - Create norms that reward and incentivize **openness instead of secrecy**
-- Give granular attribution for scientists -- not just first and last authors
-- Ensure scientists can build their prestige through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
+- Ensure scientists can build their prestige in an interpretable way through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
 
-Tracing the thread of science across centuries, it's clear that prestige has played a common, significant role -- initially through the prestige of aristocratic patrons and now through institutional prestige (and of course, the scientist's own prestige).
-
-Though the technology and infrastructure was always possible for some of these, it feels much more realistic in an agentic world. Large language models are rapidly getting us to a point where we can:
+Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world. Large language models are rapidly getting us to a point where we can:
 
 - Address issues of information overload through agentic systems that can contextually evaluate the relevance of significantly more articles than an individual human
 - Have new ways to formulate hypotheses and analyze data, creating room for more experimentation, faster iteration, and more consistent, interoperable data sharing
 - Streamline how we communicate findings and build on our knowledge with the help of reasoning models
 
-When new models of funding science are combined with new technologies and new infrastructure, there's an opportunity to fundamentally transform how science is done.
+When new models of funding science are combined with new technologies and new infrastructure, there's an opportunity to fundamentally transform how basic science (pre, pre-commercialization) is done.
 
 ## A Once in a Century Rewrite
 
-Scientists are hackers and painters. They are creative, intelligent, logical. They want to creatively express themselves, and solve problems they find interesting. The incumbent system oppresses this core desire.
+Scientists are hackers and painters. They are creative, intelligent, logical. They want to express themselves and solve problems they find interesting. The incumbent system oppresses this core desire.
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-There's certainly overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: _how_ we actually open up science in the digital age.
+There's definitely overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but a different lens on a similar problem: _how_ we actually open up science in the digital age.
 
-My hope is that this serves as a timely, big picture view of the system with more context around points of leverage for actionable change.
+We're already seeing new approaches for funding outside of the government. What we need next is infrastructure and technology to take this one step further: the right way to document and share empirical results ("knowledge units") in a data-first world to speed up the rate of experimentation.
 
-In future essays from my SciOS series, I'm going to put more thought into new funding models, infrastructure, and tools emerging in this rapidly evolving space. This is just the beginning.
+My hope is that this post, and others in this series, serve as a timely, big picture view of the system with more context around points of leverage for actionable change.
 
 If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — would love to chat: shishyko@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
