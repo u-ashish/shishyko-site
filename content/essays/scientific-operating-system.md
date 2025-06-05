@@ -28,7 +28,7 @@ Shortly after, we had the Bayh-Dole Act, which intended to ensure that tax-payer
 
 Universities not only became key pipelines of scientific talent and centers of basic research, but evolved into engines of innovation through Technology Transfer Offices (TTO), and more. They continued to bundle more and more functions into their overall purpose in society.
 
-Over time, others entered the orbit of this budding scientific system. Most notable were scholarly societies and publishers, which started well before as a way to disseminate scientific knowledge, but increasingly cemented themselves with universities to influence how science is done, and how new knowledge is, and is not shared.
+Over time, others entered the orbit of this budding scientific system. Most notable were scholarly societies and publishers, which started well before as a way to disseminate scientific knowledge, but increasingly cemented themselves with universities to influence how science is done, and how new knowledge is, and is not, shared.
 
 ## "Science" Today
 
@@ -80,7 +80,7 @@ What I find more interesting is that the shakiness of the federal funding enviro
 
 Don't get me wrong. All of this alone is insufficient to topple over an old system and replace it with something new. But that's also besides the point.
 
-What we have, in this moment, is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to fund their interests, which enables groups like [Astera Institute](https://astera.org) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms.
+What we have, in this moment, is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to fund their interests, which enables groups like [Astera Institute](https://astera.org) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms, and opens the door to rethink how federal funding works (e.g. [the X-Labs proposal](https://www.rebuilding.tech/posts/launching-x-labs-for-transformative-science-funding)).
 
 How do we ensure that these new models, if successful, actually stay and work in service of great science? And if they do stay, what foundational should they get in place to start moving the needle on these old incentive structures?
 
@@ -103,9 +103,9 @@ In essence, it should _let good science happen faster, more reliably, and more i
 Stated differently, such a system should:
 
 - Continue to fund exploratory research, even without a clear short or medium term ROI, see [Astera Institute for a good example](https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough)
-- Encourage the publication of negative results, which over time will speed up the rate of innovation by mitigating the white space problem
-- Support the publication of **knowledge units**, not just fully formed narratives
-- Give granular attribution for scientists -- not just first and last authors
+- Be scientific, experimentative, and introspective about its own performance
+- Encourage the publication of negative results, which over time will speed up the rate of innovation (white space problem)
+- Support the publication of smaller units of results (**knowledge units**), not just fully formed narratives
 - Allow for **continuous iteration** -- meaning publishing intermediate results
 - Make all findings accessible, discoverable, and machine-readable
 - Make things like replication checks, data sharing, etc. native to the system
@@ -116,7 +116,7 @@ Though the technology and infrastructure was always possible for some of these (
 
 Large language models are rapidly getting us to a point where we can:
 
-- Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) as one example)
+- Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/))
 - Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/) and [PotatoAI](https://readysetpotato.com/))
 - Make it easier to harmonize different data sources (see [DevanoAI](https://devano.ai/))
 - Run faster experiments that we can scale through machine-readable, interoperable data
@@ -136,12 +136,12 @@ There's overlap with what I'm describing here and different schools of thought a
 
 My hope as I continue to flesh out these thoughts in future essays is to explore questions like:
 
-- What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")?
+- What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")? Relatedly, what should the fundamental unit of science be (is it a paper, or something smaller)?
 - How do we ensure that we maintain things like attribution, impact while promoting faster experimentation and sharing of results?
 - How might that vary by discipline, if at all?
+- What's a reasonable path to adoption that doesn't involve burning things down, while a timing window exists?
 - How do we deal with fragmentation in infrastructure systems?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
-- As new researcher workflow tools are built to document results and collaborate, how should data be stored?
 - How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats)?
 
 ...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
