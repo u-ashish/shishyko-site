@@ -32,11 +32,9 @@ Over time, others entered the orbit of this budding scientific system. Most nota
 
 ## "Science" Today
 
-Scholarly societies began as communities of scientists who found each other, shared their findings, and built on their collective understanding of the world. Though early on, scientists would use anagrams when sharing their findings, journals were eventually formed to streamline the dissemination of scientific knowledge.
+Though journals played an important role in opening up science, the publishers behind them needed to maintain their relevance even in the internet age.
 
-As new technologies like the internet emerged, publishers needed to find ways to maintain their relevance. They are, after all, businesses, with a mandate to not just exist, but grow.
-
-One way to create staying power as a publisher is to:
+They are, after all, businesses, with a mandate to not just exist, but grow. One way to create staying power as a publisher is to:
 
 - Monetize access to read, or publish content, which you can defend through copyright laws
 - Ensure that people *have to* publish with you by:
@@ -56,7 +54,7 @@ Indeed this is all-too familiar for most scientists, and this became the de-fact
 
 And so, journals and publishers, while serving an important, core need, have gradually morphed the system with universities and federal funding into something with a number of issues:
 
-- The creation of silos of information that are not interoperable between research institutes and labs
+- The creation of silos of information that are not interoperable between research groups /
 - A disincentive to publish important findings. Why share something as soon as you have it, if you can mine it for a little more to get ahead of someone else?
 - A disincentive to publish negative results
 - An inefficient peer-review system built on underpaid (or unpaid) labor, which simply cannot scale with the exponential rate of increase in new publications *(At a recent conference, someone proposed that publishers pay for coffee for reviewers!)*
@@ -66,7 +64,7 @@ And so, journals and publishers, while serving an important, core need, have gra
 
 Are there some disciplines in science where these problems are not as big?
 
-I think so, especially in technical fields which have been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ml/ai).
+I think so, especially in technical fields which have been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ML/AI).
 
 Yet other fields with high impact on society -- life sciences, etc. remain plagued by these issues. Attempts to address these from within are met with significant inertia, making any meaningful change to adapt the system to the digital age virtually impossible.
 
@@ -139,7 +137,7 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 - What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")? Relatedly, what should the fundamental unit of science be (is it a paper, or something smaller)?
 - How do we ensure that we maintain things like attribution, impact while promoting faster experimentation and sharing of results?
 - How might that vary by discipline, if at all?
-- What's a reasonable path to adoption that doesn't involve burning things down, while a timing window exists?
+- What's a reasonable path to adoption for what I'm describing, and what does a successful outcome actually look like in the short term and long term?
 - How do we deal with fragmentation in infrastructure systems?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
 - How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats)?
