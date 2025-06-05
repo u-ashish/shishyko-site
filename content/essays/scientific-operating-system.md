@@ -78,7 +78,7 @@ Don't get me wrong. All of this alone is insufficient to topple over an old syst
 
 What we have, in this moment, is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to fund their interests, which enables groups like [Astera Institute](https://astera.org) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms, and opens the door to rethink how federal funding works (check out [the X-Labs proposal](https://www.rebuilding.tech/posts/launching-x-labs-for-transformative-science-funding) or ideas to [experiment with NIH funding](https://www.rebuilding.tech/posts/experimenting-with-nih-funding)).
 
-How do we ensure that these new models, if successful, actually stay and work in service of great science? And if they do stay, what foundation should they get in place to start moving the needle on these old incentive structures?
+How do we ensure that these new models, if successful, actually stay and work in service of great science? And if they do stay, what foundation should they put in place to start moving the needle on these old incentive structures?
 
 ## The Generative AI Moment
 
@@ -110,7 +110,9 @@ Stated differently, such a system should:
 
 Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world.
 
-Large language models are rapidly getting us to a point where we can:
+As we experiment with new models of funding, doing, and publishing science, we have to consider how the system scales with multiple order of magnitude increases in data (especially if we create a more granular unit of science for rapid, iterative sharing of results).
+
+Large language models are getting us to a point where we can:
 
 - Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/) for deep, adaptive scientific discovery)
 - Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/) and [PotatoAI](https://readysetpotato.com/))
@@ -138,7 +140,7 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 - Relatedly, what should the fundamental unit of science be (is it a paper, or something smaller)?
 - How do we ensure that we maintain things like attribution and impact while promoting faster experimentation and sharing of results?
 - How might that vary by discipline, if at all?
-- What's a reasonable path to adoption for what I'm describing, and what does a successful outcome actually look like in the short and long term?
+- What's a reasonable path to adoption for what I'm describing, and what do successful outcomes actually look like in the short and long term?
 - How do we deal with fragmentation in infrastructure systems?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
 - How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats during this period)?
