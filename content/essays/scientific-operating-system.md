@@ -80,7 +80,7 @@ Don't get me wrong. All of this alone is insufficient to topple over an old syst
 
 What we have, in this moment, is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to fund their interests, which enables groups like [Astera Institute](https://astera.org) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms, and opens the door to rethink how federal funding works (e.g. [the X-Labs proposal](https://www.rebuilding.tech/posts/launching-x-labs-for-transformative-science-funding)).
 
-How do we ensure that these new models, if successful, actually stay and work in service of great science? And if they do stay, what foundational should they get in place to start moving the needle on these old incentive structures?
+How do we ensure that these new models, if successful, actually stay and work in service of great science? And if they do stay, what foundation should they get in place to start moving the needle on these old incentive structures?
 
 ## The Generative AI Moment
 
@@ -114,17 +114,19 @@ Though the technology and infrastructure was always possible for some of these (
 
 Large language models are rapidly getting us to a point where we can:
 
-- Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/))
+- Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/) for deep, adaptive scientific discovery)
 - Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/) and [PotatoAI](https://readysetpotato.com/))
 - Make it easier to harmonize different data sources (see [DevanoAI](https://devano.ai/))
 - Run faster experiments that we can scale through machine-readable, interoperable data
 - Streamline how we communicate findings and build on our existing knowledge
 
-When new models of funding science are combined with new infrastructure and new technology, there's an opportunity to fundamentally transform how basic science (well before we think about commercialization) is done.
+When new models of funding science are combined with new infrastructure and new technology, there's an opportunity to transform how basic science is done.
 
 ## A Once in a Century Rewrite
 
-Scientists are hackers and painters. They are creative, intelligent, logical. They want to express themselves and solve problems they find interesting. The incumbent system oppresses this core desire.
+Scientists are hackers and painters. They are creative, intelligent, logical. They want to express themselves and solve interesting problems.
+
+The incumbent system oppresses this core desire.
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
@@ -134,15 +136,15 @@ There's overlap with what I'm describing here and different schools of thought a
 
 My hope as I continue to flesh out these thoughts in future essays is to explore questions like:
 
-- What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")? Relatedly, what should the fundamental unit of science be (is it a paper, or something smaller)?
-- How do we ensure that we maintain things like attribution, impact while promoting faster experimentation and sharing of results?
+- What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")?
+- Relatedly, what should the fundamental unit of science be (is it a paper, or something smaller)?
+- How do we ensure that we maintain things like attribution and impact while promoting faster experimentation and sharing of results?
 - How might that vary by discipline, if at all?
-- What's a reasonable path to adoption for what I'm describing, and what does a successful outcome actually look like in the short term and long term?
+- What's a reasonable path to adoption for what I'm describing, and what does a successful outcome actually look like in the short and long term?
 - How do we deal with fragmentation in infrastructure systems?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
-- How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats)?
+- How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats during this period)?
 
 ...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
 
 If you're building toward the future of science — as a researcher, technologist, funder, or dreamer — would love to chat: shishyko@gmail.com
-
