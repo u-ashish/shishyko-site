@@ -54,7 +54,7 @@ Indeed this is all-too familiar for most scientists, and this became the de-fact
 
 And so, journals and publishers, while serving an important, core need, have gradually morphed the system with universities and federal funding into something with a number of issues:
 
-- The creation of silos of information that are not interoperable between research groups /
+- The creation of silos of information that are not interoperable between research groups
 - A disincentive to publish important findings. Why share something as soon as you have it, if you can mine it for a little more to get ahead of someone else?
 - A disincentive to publish negative results
 - An inefficient peer-review system built on underpaid (or unpaid) labor, which simply cannot scale with the exponential rate of increase in new publications *(At a recent conference, someone proposed that publishers pay for coffee for reviewers!)*
