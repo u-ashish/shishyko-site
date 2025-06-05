@@ -50,8 +50,6 @@ Consider the perspective of a university, which gets significant revenue through
 - Tie faculty tenure to publications, impact, and prestige (with the help of publishers, ranking agencies, and more)
 - Work with citation indices and publishers to improve the "brand value" of the university to attract new faculty that might bring more grant revenue
 
-Indeed this is all-too familiar for most scientists, and this became the de-facto system everyone participates in.
-
 And so, journals and publishers, while serving an important, core need, have gradually morphed the system with universities and federal funding into something with a number of issues:
 
 - The creation of silos of information that are not interoperable between research groups
