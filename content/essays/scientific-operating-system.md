@@ -108,9 +108,7 @@ Stated differently, such a system should:
 - Create norms that reward and incentivize **openness instead of secrecy**
 - Ensure scientists can build their prestige in an interpretable way through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
 
-Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world.
-
-As we experiment with new models of funding, doing, and publishing science, we have to consider how the system scales with multiple order of magnitude increases in data (especially if we create a more granular unit of science for rapid, iterative sharing of results).
+Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world. Especially if we explore creating a more granular unit of science for more rapid / iterative sharing of results.
 
 Large language models are getting us to a point where we can:
 
@@ -145,4 +143,4 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 
 ...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
 
-If you're interested in exploring some of these ideas, or are building toward the future of science — as a researcher, technologist, funder, or dreamer — would love to chat: shishyko@gmail.com
+If you're interested in exploring some of these ideas, or are building toward the future of science — as a researcher, technologist, funder, policy lover, or dreamer — would love to chat: shishyko@gmail.com
