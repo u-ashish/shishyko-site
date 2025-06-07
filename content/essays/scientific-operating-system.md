@@ -89,7 +89,7 @@ How do we ensure that these new models -- from a mix of funding individuals, tea
 
 Like other industries, many problems within science are structural. They aren't technology problems to be solved through a new app. But, leveraging technology to support a new, modern infrastructure for more open, collaborative science can create the structural shift the system needs and give these new models the necessary power to stay.
 
-While uncertainty at the federal level is creating one set of opportunities around new funding models and infrastructure for basic science, recent advances in large language models unlock our ability to new approaches real staying power.
+While uncertainty at the federal level is creating one set of opportunities around new funding models and infrastructure for basic science, recent advances in large language models unlock our ability to give new approaches real staying power.
 
 Many of the mechanisms we've built were predicated on data and information being worked on at what I call *people scale*: the natural limits at which a group of people can reasonably organize and do things (think analysts, peer review, etc.).
 
