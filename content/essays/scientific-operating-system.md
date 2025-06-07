@@ -8,7 +8,7 @@ abstract: "AI, and other 'black swan' events, are set to transform how we do sci
 
 > Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice, in the manner dictated by their curiosity for exploration of the unknown. - Vannevar Bush
 
-In the past, scientists like Newton would withhold sharing findings and instead only share anagrams so they could later prove priority on discovery. It wasn't until the advent of journals that science became more open with more sharing across scientists in various disciplines (see The Royal Society and others).
+In the past, scientists like Newton would withhold sharing findings and [instead only share anagrams](https://mathoverflow.net/questions/140327/arnold-on-newtons-anagram) so they could later prove priority on discovery. It wasn't until the advent of journals that science became more open with more sharing across scientists in various disciplines (see The Royal Society and others).
 
 Today, we take much of this history of science for granted. Breakthroughs like CRISPR, the Human Genome Project, and CAR-T cell therapy demonstrate science’s impact on our lives. But behind the scenes, scientists operate within institutional dynamics that stifle their creativity and ability to pursue transformative science.
 
@@ -61,8 +61,8 @@ And so, journals and publishers, while serving an important, core need, have gra
 - A disincentive to publish important findings. Why share something as soon as you have it, if you can mine it for a little more to get ahead of someone else?
 - A disincentive to publish negative results
 - An inefficient peer-review system built on underpaid (or unpaid) labor, which simply cannot scale with the exponential rate of increase in new publications *(At a recent conference, someone proposed that publishers pay for coffee for reviewers!)*
-- An incentive to falsify results -- in egregious but also in subtle ways -- to get more funding.
-- Being published is treated like getting a stamp of approval.
+- An incentive to falsify results -- in egregious but also in subtle ways -- to get more funding
+- Treating publications like a stamp of approval instead of having a healthy system of corrections to the scientific record (while retractions exist, the mechanism through which they're communicated is poor and varied, see [my prior work](https://arxiv.org/abs/2210.09553) and [RetractionWatch](https://retractionwatch.com/))
 - A narrative driven format for scientific findings, instead of a focus on the facts and "knowledge units"
 
 Are there some disciplines in science where these problems are not as big?
