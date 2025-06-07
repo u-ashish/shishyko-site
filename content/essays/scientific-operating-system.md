@@ -14,7 +14,7 @@ Today, we take much of this history of science for granted. Breakthroughs like C
 
 Efforts like Open Science have chipped away at these problems, but institutional inertia has limited progress. By pulling together ideas from Open Science and other recent proposals, I argue that two recent shifts -- 1) political upheaval in U.S. federal funding and 2) the rise of generative AI -- create a rare opening for new, enduring models of research funding and infrastructure.
 
-How did we get here? And what does a potential, new Scientific Operating System (SciOS) -- meaning the infrastructure, tools, norms, and institutions that support the full lifecycle of scientific inquiry -- for basic research entail?
+I further explore how we got to this point, and what a potential, new Scientific Operating System (SciOS) -- meaning the infrastructure, tools, norms, and institutions that support the full lifecycle of scientific inquiry -- for basic research might entail.
 
 ## Existing Framework for Scientific Progress
 
@@ -122,11 +122,11 @@ When new models of funding science are combined with new infrastructure and new 
 
 ## A Once in a Century Rewrite
 
-Scientists are hackers and painters. They are creative, intelligent, logical. They want to express themselves and solve interesting, potentially transformative problems. The incumbent system can oppress this core desire -- with variation by specific discipline.
+Scientists are hackers and painters. They are creative, intelligent, logical. They want to express themselves and solve interesting, potentially transformative problems. The incumbent system can oppress this core desire (to different degrees in different disciplines).
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-Universities will still play a critical role in this. But the institutional inertia created by universities, publishers, and a federal funding framework needs to change so the system can adapt and tackle some of the inefficiencies plaguing scientists.
+Universities will still play a critical role in this, as they should in developing and nurturing scientific talent and being a haven for broad, exploratory scientific inquiry. But the institutional inertia created by universities, publishers, and a federal funding framework needs change so the system can adequately tackle the inefficiencies plaguing scientists.
 
 There's overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but an execution focused lens on a similar problem: opening up science in the digital age.
 
@@ -134,9 +134,9 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 
 - What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")?
 - Relatedly, what should the fundamental unit of science be (is it a paper, or something smaller)?
-- Is it actually better for scientific progress if science is more open? In what ways might that work against progress (see e.g. [this recent article](https://arxiv.org/abs/2406.05809)). If that's the case, might there be a different, hybrid solution?
+- Progress can be measured by depth and breadth of our advancement in knowledge. Does a more open science come at the cost of breadth ([see here](https://arxiv.org/abs/2406.05809) for one example)? If so, might there be a different, hybrid solution to bridge the types of research suited for academia, industry, and some team-based science in between?
 - How do we ensure that we maintain things like attribution and impact while promoting faster experimentation and sharing of results?
-- How might that vary by discipline, if at all?
+- How would this vary by discipline (e.g. data-intensive vs non-data intensive fields)?
 - What's a reasonable path to adoption for what I'm describing, and what do successful outcomes actually look like in the short and long term?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
 - How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats during this period)?
