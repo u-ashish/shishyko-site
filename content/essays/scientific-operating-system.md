@@ -150,4 +150,4 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 
 If you're interested in exploring some of these ideas, or are building toward the future of science — as a researcher, technologist, funder, policy lover, or dreamer — would love to chat: shishyko@gmail.com
 
-_Thanks to Philip and Eamon for sanity checking this essay, and to anyone else who calls out something dumb I did after!_
+_Thanks to Philip and Eamon for sanity checking this essay, and to anyone else on the internet who calls out something dumb I wrote :)!_
