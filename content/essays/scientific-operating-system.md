@@ -127,7 +127,7 @@ When new models of funding science are combined with new infrastructure and new 
 
 ## A Once in a Century Rewrite
 
-Scientists are hackers and painters. They are creative, intelligent, logical. They want to express themselves and solve interesting, potentially transformative problems. The incumbent system can oppress this core desire (to different degrees in different disciplines).
+Scientists are hackers and painters. They are creative, intelligent, logical. They want to express themselves and solve interesting, potentially transformative problems. The incumbent system can oppress this core desire (to varying degrees in different disciplines).
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
