@@ -134,12 +134,12 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 
 - What does it mean, in practice, to share findings more frequently, outside of a narrative format (what I refer to as "knowledge units")?
 - Relatedly, what should the fundamental unit of science be (is it a paper, or something smaller)?
-- Progress can be measured by depth and breadth of our advancement in knowledge. Does a more open science come at the cost of breadth ([see here](https://arxiv.org/abs/2406.05809) for one example)? If so, might there be a different, hybrid solution to bridge the types of research suited for academia, industry, and some team-based science in between?
 - How do we ensure that we maintain things like attribution and impact while promoting faster experimentation and sharing of results?
 - How would this vary by discipline (e.g. data-intensive vs non-data intensive fields)?
 - What's a reasonable path to adoption for what I'm describing, and what do successful outcomes actually look like in the short and long term?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
 - How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats during this period)?
+- Progress can be measured by depth and breadth of our advancement in knowledge. Does a more open science come at the cost of breadth ([see here](https://arxiv.org/abs/2406.05809) for one example)? If so, might there be a different, hybrid solution to bridge the types of research suited for academia, industry, and some team-based science in between?
 
 ...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
 
