@@ -26,9 +26,14 @@ This led to the creation of a framework where the federal government funded basi
 
 Shortly after, we had the Bayh-Dole Act, which intended to ensure that tax-payer funded research would not only advance knowledge, but be translated into technologies, products, or services that benefitted the public.
 
-Universities not only became key pipelines of scientific talent and centers of basic research, but evolved into engines of innovation through Technology Transfer Offices (TTO), and more. They continued to bundle more and more functions into their overall purpose in society.
+Universities not only became key pipelines of scientific talent and centers of basic research, but evolved into engines of innovation through Technology Transfer Offices (TTO).
 
-Over time, others entered the orbit of this budding scientific system. Most notable were scholarly societies and publishers, which started well before as a way to disseminate scientific knowledge, but increasingly cemented themselves with universities to influence how science is done, and how new knowledge is, and is not, shared.
+As a result, you can imagine universities having 2 core functions:
+
+1. Serving as the bedrock for science -- i.e. both the development of new scientists, and conducting basic research without short term ROI, which was largely cemented in the years after Vannevar Bush's memo.
+2. Ensuring research with potential can be translated / commercialized by working with governmental agencies (think NIH) or industry.
+
+Over time, they continued to bundle more and more functions into their overall purpose in society, while pulling other groups into the orbit of this budding scientific system. Most notable were scholarly societies and publishers, which started well before as a way to disseminate scientific knowledge, but increasingly cemented themselves with universities to influence how science is done, and how new knowledge is, and is not, shared.
 
 ## "Science" Today
 
@@ -70,15 +75,15 @@ Yet other fields with high impact on society -- life sciences, etc. remain plagu
 
 Recent political events that threaten federal research funding and weaponize the federal government against universities are arguably a black swan event. As the federal framework used to fund science is being dismantled, universities are looking for alternative sources of revenue while [facing an unbunding](https://www.unbundle-the-university.com/) of different functions they took on in the last few decades.
 
-Time will tell exactly how this plays out, but these changes are already opening the door for an unbundling of the university TTO function I referenced earlier. Ecosystem developers like [Portal Innovations](https://portalinnovations.com) as well as venture / industry partners are finding new ways to work with universities to help them diversify their sources of revenue through the IP they have.
+Time will tell exactly how this plays out, but these changes are already opening the door for an unbundling of the university TTO function I referenced earlier (core function #2 from earlier). Ecosystem developers like [Portal Innovations](https://portalinnovations.com) as well as venture / industry partners are finding new ways to work with universities to help them diversify their sources of revenue through the IP they have.
 
-What I find more interesting is that the shakiness of the federal funding environment makes universities and researchers increasingly more open to exploring new sources of funding for basic research (not just commercialization activity). That means an opening to work past the institutional inertia created by universities, publishers, etc. in preserving incentives that work against great science.
+What I find more interesting is that the shakiness of the federal funding environment makes universities and researchers increasingly more open to exploring new sources of funding for basic research (not just commercialization). That means an opening to work past the institutional inertia created by universities, publishers, etc. which preserves incentives that work against great science (this inertia makes it difficult to improve core function #1 above).
 
 Don't get me wrong. All of this alone is insufficient to topple over an old system and replace it with something new. But that's also besides the point.
 
 What we have, in this moment, is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to fund their interests, which enables groups like [Astera Institute](https://astera.org) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms, and opens the door to rethink how federal funding works (check out [the X-Labs proposal](https://www.rebuilding.tech/posts/launching-x-labs-for-transformative-science-funding) or ideas to [experiment with NIH funding](https://www.rebuilding.tech/posts/experimenting-with-nih-funding)).
 
-How do we ensure that these new models, if successful, actually stay and work in service of great science? And if they do stay, what foundation should they put in place to start moving the needle on these old incentive structures?
+How do we ensure that these new models -- from a mix of funding individuals, teams, or more -- if promising, actually stay and work in service of great science? And if they do stay, what foundation needs to be in place to start moving the needle on these old incentive structures?
 
 ## The Generative AI Moment
 
@@ -108,12 +113,12 @@ Stated differently, such a system should:
 - Create norms that reward and incentivize **openness instead of secrecy**
 - Ensure scientists can build their prestige in an interpretable way through more granular attribution for their contributions, instead of it being transferred in aggregate by journal impact and authorship position
 
-Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world. Especially if we explore creating a more granular unit of science for more rapid / iterative sharing of results.
+Though the technology and infrastructure was always possible for some of these (and in fact, is slowly being built -- see DataCite, Crossref, OpenAlex, preprint servers), it feels much more realistic to scale these systems in an agentic world, especially if we explore creating a more granular unit of science for more rapid / iterative sharing of results.
 
 Large language models are getting us to a point where we can:
 
-- Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/) for deep, adaptive scientific discovery)
-- Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/) and [PotatoAI](https://readysetpotato.com/))
+- Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/) for deep, adaptive scientific search, or [scite.ai](https://scite.ai) for innovations in citation indices)
+- Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/), [PotatoAI](https://readysetpotato.com/), and [Elicit](https://elicit.org))
 - Make it easier to harmonize different data sources (see [DevanoAI](https://devano.ai/))
 - Run faster experiments that we can scale through machine-readable, interoperable data
 - Streamline how we communicate findings and build on our existing knowledge
@@ -126,7 +131,7 @@ Scientists are hackers and painters. They are creative, intelligent, logical. Th
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-Universities will still play a critical role in this, as they should in developing and nurturing scientific talent and being a haven for broad, exploratory scientific inquiry. But the institutional inertia created by universities, publishers, and a federal funding framework needs change so the system can adequately tackle the inefficiencies plaguing scientists.
+Universities will still play a critical role in this, as they should in developing and nurturing scientific talent and being a haven for broad, exploratory scientific inquiry. But the institutional inertia created by universities, publishers, and a federal funding framework needs to change so the system can adequately monitor, acknowledge, *and tackle* the inefficiencies it creates.
 
 There's overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but an execution focused lens on a similar problem: opening up science in the digital age.
 
@@ -139,7 +144,7 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 - What's a reasonable path to adoption for what I'm describing, and what do successful outcomes actually look like in the short and long term?
 - How do we preserve confidentiality and invention priority without compromising the rate of progress and collaboration?
 - How should we think about data interoperability to foster collaboration (especially as companies try to create lock-in through proprietary data formats during this period)?
-- Progress can be measured by depth and breadth of our advancement in knowledge. Does a more open science come at the cost of breadth ([see here](https://arxiv.org/abs/2406.05809) for one example)? If so, might there be a different, hybrid solution to bridge the types of research suited for academia, industry, and some team-based science in between?
+- Progress can be measured by depth and breadth of our advancement in knowledge. Does more open science come at the cost of breadth ([see here](https://arxiv.org/abs/2406.05809) for one example)? If so, might there be a different, hybrid solution to bridge the types of research suited for academia, industry, and some team-based science in between?
 
 ...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
 
