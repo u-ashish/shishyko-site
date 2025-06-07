@@ -77,9 +77,9 @@ Recent political events that threaten federal research funding and weaponize the
 
 Time will tell exactly how this plays out, but these changes are already opening the door for an unbundling of the university TTO function I referenced earlier (core function #2 from earlier). Ecosystem developers like [Portal Innovations](https://portalinnovations.com) as well as venture / industry partners are finding new ways to work with universities to help them diversify their sources of revenue through the IP they have.
 
-What I find more interesting is that the shakiness of the federal funding environment makes universities and researchers increasingly more open to exploring new sources of funding for basic research (not just commercialization). That means an opening to work past the institutional inertia created by universities, publishers, etc. which preserves incentives that work against great science (this inertia makes it difficult to improve core function #1 above).
+What I find more interesting is that the shakiness of the federal funding environment makes universities and researchers increasingly more open to exploring new sources of funding for basic research (not just commercialization). That means an opening to work past the institutional inertia created by universities, publishers, etc. which often works against improving structural issues in science.
 
-Don't get me wrong. All of this alone is insufficient to topple over an old system and replace it with something new. But that's also besides the point.
+Don't get me wrong. All of this alone is insufficient to topple over an old system and replace it with something new. But that's also not the point.
 
 What we have, in this moment, is a very, *very* useful wedge to get scientists and universities open minded about new opportunities to fund their interests, which enables groups like [Astera Institute](https://astera.org) or [Convergent Research](https://www.convergentresearch.org/) to experiment with new ways of funding science, on their own terms, and opens the door to rethink how federal funding works (check out [the X-Labs proposal](https://www.rebuilding.tech/posts/launching-x-labs-for-transformative-science-funding) or ideas to [experiment with NIH funding](https://www.rebuilding.tech/posts/experimenting-with-nih-funding)).
 
