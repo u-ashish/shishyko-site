@@ -120,6 +120,7 @@ Large language models are getting us to a point where we can:
 - Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/) for deep, adaptive scientific search, or [scite.ai](https://scite.ai) for innovations in citation indices)
 - Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/), [PotatoAI](https://readysetpotato.com/), and [Elicit](https://elicit.org))
 - Make it easier to harmonize different data sources (see [DevanoAI](https://devano.ai/))
+- Retroactively text mine scientific content by harmonizing disparate PDF sources through tools like [grobid](https://github.com/kermitt2/grobid), which [we used at scite.ai](https://direct.mit.edu/qss/article/2/3/882/102990/scite-A-smart-citation-index-that-displays-the)
 - Run faster experiments that we can scale through machine-readable, interoperable data
 - Streamline how we communicate findings and build on our existing knowledge
 
