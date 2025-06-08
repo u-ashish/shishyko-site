@@ -132,7 +132,7 @@ Scientists are hackers and painters. They are creative, intelligent, logical. Th
 
 A new Scientific Operating System isn't just a new toolset, or just a new methodology. It's a set of interactions comprised of people, organizations, data infrastructure, and technologies in service of the creatives who do great science, and the public that depends on it.
 
-Universities will still play a critical role in this, as they should in developing and nurturing scientific talent and being a haven for broad, exploratory scientific inquiry. But the institutional inertia created by universities, publishers, and a federal funding framework needs to change so the system can adequately monitor, acknowledge, *and tackle* the inefficiencies it creates.
+Universities will still play a critical role in this, as they should in developing and nurturing scientific talent and being a haven for broad, exploratory scientific inquiry. But the institutional inertia created by universities, publishers, and our federal funding framework needs to change so the system can adequately monitor, acknowledge, and address the inefficiencies it creates.
 
 There's overlap with what I'm describing here and different schools of thought around the Open Science movement. I don't intend for this to be a replacement or substitute, but an execution focused lens on a similar problem: opening up science in the digital age.
 
