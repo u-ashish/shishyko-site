@@ -127,7 +127,7 @@ And most interesting - I think - is the commoditization of software development.
 
 This creates a real incentive for new builders to build on the infrastructure / tooling side, in a more open way. Get the right datasets, create agent-first tooling through MCP servers, and let individuals or groups of scientists design tailored workflows for their respective fields. Science is not a monolith, so there is no need to search for a one-size fits all solution.
 
-When new models of funding science are combined with new infrastructure and new technology, there's an opportunity for funders and builders to meaningfully improve externalities that work against science.
+When new models of funding science are combined with new infrastructure and new technology, there's an opportunity for funders and builders to meaningfully improve incentives that work against science.
 
 ## A Once in a Century Rewrite
 
