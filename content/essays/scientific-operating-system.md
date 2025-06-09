@@ -122,9 +122,9 @@ Large language models are getting us to a point where we can:
 - Make it easier to harmonize different data sources (see [DevanoAI](https://devano.ai/))
 - Retroactively text mine scientific content by harmonizing disparate PDF sources through tools like [grobid](https://github.com/kermitt2/grobid), which [we used at scite.ai](https://direct.mit.edu/qss/article/2/3/882/102990/scite-A-smart-citation-index-that-displays-the)
 
-Instead of building new products in those spaces, I think the really interesting change from Generative AI is the commoditization of software development. The tough problems are still for the best engineers, but at the other side, e.g. a scientist who wants to hack together a few scripts to build a quick visualization, or some automation, Cursor and tools like it are incredible.
+And most interesting - I think - is the commoditization of software development. The tough problems are still for the best engineers, but at the other side, e.g. a scientist who wants to hack together a few scripts to build a quick visualization, or some automation, Cursor and tools like it are incredible.
 
-This creates a real incentive for builders to build on the infrastructure / tooling side, in a more open way. Get the right datasets, create agent-first tooling through MCP servers, and let others construct their workflows in their own ways.
+This creates a real incentive for new builders to build on the infrastructure / tooling side, in a more open way. Get the right datasets, create agent-first tooling through MCP servers, and let others construct custom workflows in their own ways.
 
 When new models of funding science are combined with new infrastructure and new technology, there's an opportunity to transform how basic science is done.
 
