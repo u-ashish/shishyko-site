@@ -69,7 +69,7 @@ Are there some disciplines in science where these problems are not as big?
 
 I think so, especially in technical fields which have been influenced by Open Source software, which made it easier to embrace Open Science methodology (physics, computer science, ML/AI).
 
-Yet other fields with high impact on society - life sciences, etc. remain plagued by these issues. Attempts to address these from within are met with significant inertia, making any meaningful change to adapt the system to the digital age virtually impossible.
+Yet other fields with high impact on society - life sciences, etc. remain plagued by these problems. Attempts to address these from within are met with significant inertia, making any meaningful change to improve the system to the digital age virtually impossible.
 
 ## A Shifting Federal Landscape
 
@@ -120,11 +120,12 @@ Large language models are getting us to a point where we can:
 - Address issues of information overload through agentic systems that can contextually search through and evaluate the relevance of significantly more articles than an individual human (see [Undermind](https://undermind.ai) and [FutureHouse](https://www.futurehouse.org/) for deep, adaptive scientific search, or [scite.ai](https://scite.ai) for innovations in citation indices)
 - Have new ways to formulate hypotheses and analyze data (consider [PlutoBio](https://pluto.bio/), [PotatoAI](https://readysetpotato.com/), and [Elicit](https://elicit.org))
 - Make it easier to harmonize different data sources (see [DevanoAI](https://devano.ai/))
+- Streamline how scientists find funding (check out [Atom Grants](https://atomgrants.com/))
 - Retroactively text mine scientific content by harmonizing disparate PDF sources through tools like [grobid](https://github.com/kermitt2/grobid), which [we used at scite.ai](https://direct.mit.edu/qss/article/2/3/882/102990/scite-A-smart-citation-index-that-displays-the)
 
 And most interesting - I think - is the commoditization of software development. The tough problems are still for the best engineers, but at the other side, e.g. a scientist who wants to hack together a few scripts to build a quick visualization, or some automation, Cursor and tools like it are incredible.
 
-This creates a real incentive for new builders to build on the infrastructure / tooling side, in a more open way. Get the right datasets, create agent-first tooling through MCP servers, and let others construct custom workflows in their own ways.
+This creates a real incentive for new builders to build on the infrastructure / tooling side, in a more open way. Get the right datasets, create agent-first tooling through MCP servers, and let individuals design tailored workflows (instead of taking a one size fits all approach).
 
 When new models of funding science are combined with new infrastructure and new technology, there's an opportunity to transform how basic science is done.
 
