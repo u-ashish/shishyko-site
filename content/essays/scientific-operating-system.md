@@ -151,6 +151,8 @@ My hope as I continue to flesh out these thoughts in future essays is to explore
 
 ...and much more, to create a timely, big picture view of the system while highlighting points of leverage for actionable change.
 
-If you're interested in exploring some of these ideas, or are building toward the future of science — as a researcher, technologist, funder, policy lover, or dreamer — would love to chat: shishyko@gmail.com
+If you're interested in exploring some of these ideas or building toward the future of science — as a researcher, technologist, funder, policy lover, or dreamer — would love to chat: shishyko@gmail.com.
+
+I'm especially looking for active scientists in different disciplines that want to share their perspectives on some of these ideas -- through review, or follow-up interviews.
 
 _Thanks to Philip and Eamon for sanity checking this essay, and to anyone else on the internet who calls out something dumb I wrote :)!_
