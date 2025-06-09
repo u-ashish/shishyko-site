@@ -156,4 +156,4 @@ If you're interested in exploring some of these ideas or building toward the fut
 
 I'm especially looking for active scientists in different disciplines that want to share their perspectives on some of these ideas - through review, or follow-up interviews.
 
-_Thanks to Philip and Eamon for sanity checking this essay, and to anyone else on the internet who calls out something dumb I wrote :)!_
+_Thanks to [Philip Thomas](https://www.philipithomas.com/) and [Eamon Duede](https://eamonduede.com/) for sharing their feedback, and to anyone else on the internet who calls out something dumb I wrote :)!_
