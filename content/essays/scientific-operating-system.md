@@ -125,9 +125,9 @@ Large language models are getting us to a point where we can:
 
 And most interesting - I think - is the commoditization of software development. The tough problems are still for the best engineers, but at the other side, e.g. a scientist who wants to hack together a few scripts to build a quick visualization, or some automation, Cursor and tools like it are incredible.
 
-This creates a real incentive for new builders to build on the infrastructure / tooling side, in a more open way. Get the right datasets, create agent-first tooling through MCP servers, and let individuals or groups of scientist design tailored workflows for their respective fields. Science is not a monolith, so there is no need to search for a one-size fits all solution.
+This creates a real incentive for new builders to build on the infrastructure / tooling side, in a more open way. Get the right datasets, create agent-first tooling through MCP servers, and let individuals or groups of scientists design tailored workflows for their respective fields. Science is not a monolith, so there is no need to search for a one-size fits all solution.
 
-When new models of funding science are combined with new infrastructure and new technology, there's an opportunity to transform how basic science is done.
+When new models of funding science are combined with new infrastructure and new technology, there's an opportunity for funders and builders to meaningfully improve externalities that work against science.
 
 ## A Once in a Century Rewrite
 
