@@ -156,7 +156,7 @@ h1 {
 
 @media (min-width: 800px) {
     h1 {
-        margin-left: calc(50% + 0.5*var(--unit-line-height));
+        margin-left: calc(50% + 0.3*var(--unit-line-height));
     }
 }
 
