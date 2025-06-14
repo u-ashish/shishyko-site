@@ -6,7 +6,7 @@ date: "June 2025"
 abstract: "How can we unbundle a paper to transform science from a Cathedral into a Bazaar, and transfer power back to scientists?"
 ---
 
-#### NOTE! This is just a draft! The final version is under review and will be published elsewhere, but sharing in the spirit of feedback.
+#### NOTE! This is just a draft, but is under review and might be published elsewhere if accepted. Sharing here to avoid the irony!
 
 > I believed that the most important software [...] needed to be built like cathedrals, carefully crafted by individual wizards or small bands of mages working in splendid isolation... the Linux community seemed to resemble a great babbling bazaar of differing agendas and approaches out of which a coherent and stable system could seemingly emerge. - Eric Raymond, The Cathedral and the Bazaar
 
