@@ -77,7 +77,9 @@ Innovations like Discourse Graphs point to what’s possible: a future where sci
 
 This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the system of scientific inquiry invites openness and reuse without compromising credit.
 
-It’s time to publish the experiment. To enable public work by creating a new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I'll bet it's far more powerful than we’ve dared to imagine.
+People often say "do the f@$%ing experiment". I say it’s time to publish the experiment.
+
+We need to enable public work by creating a new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I'll bet it's far more powerful than we’ve dared to imagine.
 
 If you'd like to develop some of these thoughts further, or are working on some of these problems, get in touch at ashish.uppala.93@gmail.com.
 
