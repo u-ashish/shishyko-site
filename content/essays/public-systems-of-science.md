@@ -16,7 +16,7 @@ This exact tension exists in our systems of science today. Traditionally slow, s
 
 But how much better could it be?
 
-Reflecting on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerged, not just after it was polished? Could such a system unlock even more transformative discoveries?
+Reflecting on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerges, not just after it's polished? Could such a system unlock even more transformative discoveries?
 
 ### The Cathedral of Science
 
