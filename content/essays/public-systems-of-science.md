@@ -62,9 +62,11 @@ Imagine if every lab meeting, idea, brainstorming session, experimental decision
 
 ### Public Science
 
-Protocols like Discourse Graphs, if shared beyond the confines of individual labs, offer a future for science that helps scientists scale with the explosion of information, get credit that reflects their actual contributions, and enable discoveries and ideation beyond their own epistemic bubbles.
+Innovations like Discourse Graphs point to what’s possible: a future where scientists can scale with the explosion of information, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
-The bazaar of open science won’t build itself. But piece by piece -- through shared tools, open experiments, and new norms -- we might finally bring science out of The Cathedral, and into the commons.
+But this is about more than tools and protocols – it’s about reimagining science as a public system. A system where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the architecture of scientific work invites openness, reuse, and remixing without compromising credit.
+
+In this vision, public science isn’t just about transparency – it’s about agency. About giving scientists the infrastructure to build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but it might also be far more powerful than we’ve dared to imagine.
 
 If you'd like to develop some of these thoughts further, or are working on some of these problems, get in touch at ashish.uppala.93@gmail.com.
 
