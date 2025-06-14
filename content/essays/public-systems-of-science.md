@@ -64,7 +64,7 @@ Imagine if every lab meeting, idea, brainstorming session, experimental decision
 
 Innovations like Discourse Graphs point to what’s possible: a future where scientists can scale with the explosion of information, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
-But this is about more than tools and protocols – it’s about reimagining science as a public system. A system where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the architecture of scientific work invites openness, reuse, and remixing without compromising credit.
+But this is about more than tools and protocols – it’s about reimagining science as a public system. A system where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the architecture of scientific work invites openness and reuse without compromising credit.
 
 In this vision, public science isn’t just about transparency – it’s about agency. About giving scientists the infrastructure to build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but it might also be far more powerful than we’ve dared to imagine.
 
