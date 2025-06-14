@@ -81,7 +81,7 @@ People often say "do the f@$%ing experiment". I say it’s time to publish the e
 
 We need to enable public work by creating a new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I'll bet it's far more powerful than we’ve dared to imagine.
 
-If you'd like to develop some of these thoughts further, or are working on some of these problems, get in touch at ashish.uppala.93@gmail.com.
+If you'd like to develop some of these thoughts further, or are working on some of these problems, get in touch at shishyko@gmail.com
 
 
-*Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for ongoing discussions which helped cement these ideas.*
+*Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for listening to me babble about this in recent conversations.*
