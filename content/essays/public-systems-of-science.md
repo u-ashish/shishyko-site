@@ -43,8 +43,6 @@ We'd finish a draft, submit it for peer review, and then went through yet anothe
 Eventually, months or years later, our revised, typeset manuscript would be beautifully displayed for others. Hopefully with the word `nature` somewhere in the header. And a list of authors, where the first and last got the bulk of the credit and the rest were just there, doing who knows what.
 
 Does it really have to be this way?
-  
-What if, instead, we worked in public? Published hypotheses, experiments, and findings (positive and negative) every week, and got feedback from others, in and outside of our lab?
 
 ### The Experiment is our Building Block
 
@@ -52,9 +50,9 @@ Indeed many have lamented the problems plaguing science. Solutions have been dif
 
 Communities of scientists have long recognized these problems and attempted to address it from within. Physicists started making their own findings accessible faster in the early 90s, which eventually turned into arXiv. Now, we have a number of preprint servers from bioRxiv, chemRxiv, medRxiv that allow scientists in those fields to share their publications before peer-review.
 
-Though preprints were an important step in making science more accessible, they don't address the *form* of science. The paper, in its polished glory, is still treated as the fundamental output of the scientific process.
+Though preprints were an important step in making science more accessible, they continued to treat the paper, in its polished glory, as the fundamental output of the scientific process.
 
-That’s not to say that papers should go away - they are essential for long-form descriptions of findings. But what’s missing is a way to share knowledge sooner. After all, science isn’t done in papers. It’s done in weekly experiments, discussions, dead ends, tinkering, refining, and occasional flashes of insight. Can the paper itself be unbundled into smaller units of knowledge? 
+That’s not to say that papers should go away - they are valuable for long-form descriptions of findings. But what’s missing is a way to share knowledge sooner. Science isn’t done in papers, but in weekly experiments full of discussions, dead ends, tinkering, refining, and occasional flashes of insight. Can the paper itself be unbundled into smaller units of knowledge?
 
 New approaches led by researchers are gradually emerging to address some of these ideas. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
 
