@@ -16,7 +16,11 @@ This exact tension exists in our systems of science today. Traditionally slow, s
 
 But how much better could it be?
 
-Reflecting on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what would science look like if scientists worked in public - outside of the silos of their labs and organizations? In what ways could scientists share knowledge faster to drive collaboration and innovation without sacrificing credit, and instead gain proper recognition for their own ideas and contributions?
+Reflecting on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what would science look like if scientists worked in public - outside of the silos of their labs and organizations, and without the confines of Powerpoints, PDFs, and Lab Notebooks?
+
+In what ways could scientists share knowledge faster to drive collaboration and innovation without sacrificing credit, and instead gain proper recognition for their own ideas and contributions?
+
+And what are the transformative implications of such a public, fluid system of science?
 
 ### The Cathedral of Science
 
@@ -60,14 +64,25 @@ Equally important is that the intermediate and final results wouldn’t be locke
 
 Imagine if every lab meeting, idea, brainstorming session, experimental decision lived in such a shared, explorable graph. Not buried in notebooks or brains, but organized, attributed, and discoverable -- by your future self, your peers, and the broader scientific community.
 
-### Public Science
+### Public Science has Transformative Potential
 
-Innovations like Discourse Graphs point to what’s possible: a future where scientists can scale with the explosion of information, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
+In the 1990s, Martine Rothblatt was the CEO of SiriusXM. Her daughter, Jenesis, had been diagnosed with a terminal illness: Pulmonary Arterial Hypertension (PAH). Determined to find a cure, she famously found relevant research papers, applied citation chaining - or shepardizing, to borrow from law - to trace ideas through older articles, and spotted a key figure in an older paper that might have therapeutic potential.
 
-But this is about more than tools and protocols – it’s about reimagining science as a public system. A system where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the architecture of scientific work invites openness and reuse without compromising credit.
+In [her own words](https://tim.blog/2020/12/17/martine-rothblatt-transcript/):
 
-In this vision, public science isn’t just about transparency – it’s about agency. About giving scientists the infrastructure to build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but it might also be far more powerful than we’ve dared to imagine.
+> Finally, I read about a molecule that a researcher at Glaxo Wellcome had written in which they described testing this molecule for congestive heart failure. And it failed in its test of congestive heart failure. It did not work, but in the article, they had charts of what the molecule did. And the one thing that the molecule did that grabbed my attention was that it reduced the pressure between the lung and the heart, which is called the pulmonary artery. It reduced the pulmonary artery pressure while leaving the pressures and all of the rest of the body perfectly fine. Well, that’s exactly the problem with pulmonary arterial hypertension, the people who have this disease.
+
+She quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
+
+What if that figure had never been published? How many other figures and insights are tucked away in powerpoint slides, lab notebooks, minds of individual scientists, in that chaotic process leading up to a polished paper?
+
+Innovations like Discourse Graphs point to what’s possible: a future where scientists and innovators can scale with the explosion of information, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
+
+This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the system of scientific invites openness and reuse without compromising credit.
+
+It’s time to publish the experiment. To work in public, and create a new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but it might also be far more powerful than we’ve dared to imagine.
 
 If you'd like to develop some of these thoughts further, or are working on some of these problems, get in touch at ashish.uppala.93@gmail.com.
+
 
 *Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for ongoing discussions which helped cement these ideas.*
