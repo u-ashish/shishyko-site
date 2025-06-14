@@ -51,7 +51,7 @@ Though preprints were an important step in making science more accessible, they 
 
 That’s not to say that papers should go away - they are valuable for long-form, contextualized descriptions of findings. But what’s missing is a way to share knowledge sooner. Science isn’t done in papers, but in weekly experiments full of discussions, dead ends, tinkering, refining, and occasional flashes of insight.
 
-Can the paper itself be unbundled into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
+Can the paper itself be unbundled into smaller units of knowledge? Hypotheses linked to evidence – from our own lab and those of others elsewhere. Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
 
 New approaches led by researchers are gradually emerging to address some of these ideas. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
 
