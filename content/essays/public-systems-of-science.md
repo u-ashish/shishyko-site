@@ -16,11 +16,7 @@ This exact tension exists in our systems of science today. Traditionally slow, s
 
 But how much better could it be?
 
-Reflecting on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what would science look like if scientists worked in public - outside of the silos of their labs and organizations, and without the confines of Powerpoints, PDFs, and Lab Notebooks?
-
-In what ways could scientists share knowledge faster to drive collaboration and innovation without sacrificing credit, and instead gain proper recognition for their own ideas and contributions?
-
-And what are the transformative implications of such a public, fluid system of science?
+Reflecting on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerged, not just after it was polished? Could such a system unlock even more transformative discoveries?
 
 ### The Cathedral of Science
 
