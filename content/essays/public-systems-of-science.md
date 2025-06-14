@@ -73,7 +73,7 @@ She found a paper - containing a negative result! - that wasn’t about PAH, spo
 
 What if that figure had never been published? How many other figures and insights are tucked away in powerpoint slides, lab notebooks, minds of individual scientists, in that chaotic process leading up to a polished paper?
 
-Innovations like Discourse Graphs point to what’s possible: a future where scientists and innovators can scale with the explosion of information, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
+Innovations like Discourse Graphs point to what’s possible: a future where scientists and innovators can scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
 This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the system of scientific inquiry invites openness and reuse without compromising credit.
 
