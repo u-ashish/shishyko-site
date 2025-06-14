@@ -79,9 +79,8 @@ Innovations like Discourse Graphs point to what’s possible: a future where sci
 
 This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the confines of labs and disciplines, not just within them; and where the system of scientific invites openness and reuse without compromising credit.
 
-Such a future needs new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I’ll bet it’s far more powerful than we’ve dared to imagine.
+Such a future [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I’ll bet it’s far more powerful than we’ve dared to imagine.
 
-If you'd like to develop some of these thoughts further, or are working on some of these problems, get in touch at shishyko@gmail.com
-
+As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, I’d love to hear from anyone excited by or completely against this future. Please get in touch at shishyko@gmail.com to lend your voice!
 
 *Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for listening to me babble about this in recent conversations.*
