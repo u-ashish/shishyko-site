@@ -69,7 +69,7 @@ In [her own words](https://tim.blog/2020/12/17/martine-rothblatt-transcript/):
 
 > Finally, I read about a molecule that a researcher at Glaxo Wellcome had written in which they described testing this molecule for congestive heart failure. And it failed in its test of congestive heart failure. It did not work, but in the article, they had charts of what the molecule did. And the one thing that the molecule did that grabbed my attention was that it reduced the pressure between the lung and the heart, which is called the pulmonary artery. It reduced the pulmonary artery pressure while leaving the pressures and all of the rest of the body perfectly fine. Well, that’s exactly the problem with pulmonary arterial hypertension, the people who have this disease.
 
-She found a paper that wasn’t about PAH, spotted an individual chart directly relevant to the disease, connected the dots, and quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
+She found a paper - containing a negative result! - that wasn’t about PAH, spotted an individual chart directly relevant to the disease, connected the dots, and quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
 
 What if that figure had never been published? How many other figures and insights are tucked away in powerpoint slides, lab notebooks, minds of individual scientists, in that chaotic process leading up to a polished paper?
 
