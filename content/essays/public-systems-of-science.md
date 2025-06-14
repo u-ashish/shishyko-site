@@ -59,7 +59,7 @@ Discourse Graphs represent research ideas as modular, interlinked claims: hypoth
 
 Equally important is that the intermediate and final results wouldn’t be locked away in PowerPoints and PDFs – two formats that are notoriously difficult for machine readability.
 
-Imagine if every lab meeting, idea, brainstorming session, experimental decision lived in such a shared, explorable graph. Not buried in notebooks or brains, but organized, attributed, and discoverable -- by your future self, your peers, and the broader scientific community.
+Imagine if every lab meeting, idea, brainstorming session, experimental decision lived in such a shared, explorable graph. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
 ### Public Science has Transformative Potential
 
@@ -75,7 +75,7 @@ What if that figure had never been published? How many other figures and insight
 
 Innovations like Discourse Graphs point to what’s possible: a future where scientists and innovators can scale with the explosion of information, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
-This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the system of scientific invites openness and reuse without compromising credit.
+This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the system of scientific inquiry invites openness and reuse without compromising credit.
 
 It’s time to publish the experiment. To enable public work by creating a new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I'll bet it's far more powerful than we’ve dared to imagine.
 
