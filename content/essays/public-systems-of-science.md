@@ -28,6 +28,7 @@ We held each other accountable, and learned from one another. All that juicy kno
 
 > "No, no, you can't trust that paper. That PI always fudges their data in these ways. See? I'm not sure we can incorporate those ideas into our own experiments."
 
+
 > "Hmm. It'd be interesting if we could induce liver cancer in mice with underlying cirrhosis. We already have a way of doing the latter with CCL4. What about an AAV-8 mediated approach?"
 
 I wish I recorded these conversations. Across all labs. And then indexed them to be discovered by others.
