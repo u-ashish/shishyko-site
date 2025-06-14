@@ -3,7 +3,7 @@ title: "Public Systems of Science"
 series: "SciOS"
 author: "Ashish Uppala"
 date: "June 2025"
-abstract: "How can we unbundle a paper to transform science from a Cathedral into a Bazaar, and transfer power back to scientists?"
+abstract: "How can we unbundle a paper to transform science from a Cathedral into a Bazaar, and give power back to scientists?"
 ---
 
 #### NOTE! This is just a draft, but is under review and might be published elsewhere if accepted. Sharing here to avoid the irony!
@@ -55,7 +55,7 @@ Can the paper itself be unbundled into smaller units of knowledge? Hypotheses li
 
 New approaches led by researchers are gradually emerging to address some of these ideas. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
 
-Discourse Graphs represent research ideas as modular, interlinked claims: hypotheses, evidence, critiques, questions. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights to be published in smaller chunks - like code commits or GitHub issue threads - while maintaining traceability, credit, and context.
+Discourse Graphs represent research ideas as modular, interlinked claims: hypotheses, evidence, critiques, questions. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
 Equally important is that the intermediate and final results wouldn’t be locked away in PowerPoints and PDFs – two formats that are notoriously difficult for machine readability.
 
@@ -73,13 +73,13 @@ She found a paper - containing a negative result! - that wasn’t about PAH, spo
 
 What if that figure had never been published? How many other figures and insights are tucked away in powerpoint slides, lab notebooks, minds of individual scientists, in that chaotic process leading up to a polished paper?
 
-Innovations like Discourse Graphs point to what’s possible: a future where scientists and innovators can scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
+People have increasingly been saying “do the f@$%ing experiment”. I say it’s also time to publish the experiment.
 
-This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the epistemic confines of labs and disciplines, not just within them; and where the system of scientific inquiry invites openness and reuse without compromising credit.
+Innovations like Discourse Graphs point to what’s possible: a future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
-People often say "do the f@$%ing experiment". I say it’s time to publish the experiment.
+This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the confines of labs and disciplines, not just within them; and where the system of scientific invites openness and reuse without compromising credit.
 
-We need to enable public work by creating a new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I'll bet it's far more powerful than we’ve dared to imagine.
+We need to enable working in public by creating a new infrastructure where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I’ll bet it’s far more powerful than we’ve dared to imagine.
 
 If you'd like to develop some of these thoughts further, or are working on some of these problems, get in touch at shishyko@gmail.com
 
