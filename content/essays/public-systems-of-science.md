@@ -50,7 +50,7 @@ Indeed many have lamented the problems plaguing science. Solutions have been dif
 
 Communities of scientists have long recognized these problems and attempted to address it from within. Physicists started making their own findings accessible faster in the early 90s, which eventually turned into arXiv. Now, we have a number of preprint servers from bioRxiv, chemRxiv, medRxiv that allow scientists in those fields to share their publications before peer-review.
 
-Though preprints were an important step in making science more accessible, they continued to treat the paper, in its polished glory, as the fundamental output of the scientific process.
+Though preprints were an important step in making science more accessible, they continued to treat the paper as the fundamental output of the scientific process.
 
 That’s not to say that papers should go away - they are valuable for long-form descriptions of findings. But what’s missing is a way to share knowledge sooner. Science isn’t done in papers, but in weekly experiments full of discussions, dead ends, tinkering, refining, and occasional flashes of insight. Can the paper itself be unbundled into smaller units of knowledge?
 
