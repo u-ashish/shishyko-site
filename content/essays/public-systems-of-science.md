@@ -3,7 +3,7 @@ title: "Public Systems of Science"
 series: "SciOS"
 author: "Ashish Uppala"
 date: "June 2025"
-abstract: "How can we unbundle a paper to transform science from a Cathedral into a Bazaar?"
+abstract: "How can we unbundle a paper to transform science from a Cathedral into a Bazaar, and transfer power back to scientists?"
 ---
 
 #### NOTE! This is just a draft! The final version is under review and will be published elsewhere, but sharing in the spirit of feedback.
