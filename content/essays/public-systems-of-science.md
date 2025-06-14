@@ -50,13 +50,16 @@ Communities of scientists have long recognized these problems and attempted to a
 
 Though preprints were an important step in making science more accessible, they don't address the *form* of science. The paper, in its polished glory, is still treated as the fundamental output of the scientific process.
 
-But science isn't done in papers. It's done in weekly experiments, discussions, dead ends, tinkering, refining, and occasional flashes of insight. Can the paper itself be unbundled into smaller units of knowledge? 
+That’s not to say that papers should go away - they are essential for long-form descriptions of findings. But what’s missing is a way to share knowledge sooner. After all, science isn’t done in papers. It’s done in weekly experiments, discussions, dead ends, tinkering, refining, and occasional flashes of insight. Can the paper itself be unbundled into smaller units of knowledge? 
 
-New approaches led by researchers are gradually emerging. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
+New approaches led by researchers are gradually emerging to address some of these ideas. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
 
 Discourse Graphs represent research ideas as modular, interlinked claims: hypotheses, evidence, critiques, questions. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights to be published in smaller chunks - like code commits or GitHub issue threads - while maintaining traceability, credit, and context.
 
+Equally important is that the intermediate and final results wouldn’t be locked away in PowerPoints and PDFs – two formats that are notoriously difficult for machine readability.
+
 Imagine if every lab meeting, idea, brainstorming session, experimental decision lived in such a shared, explorable graph. Not buried in notebooks or brains, but organized, attributed, and discoverable -- by your future self, your peers, and the broader scientific community.
+
 ### Public Science
 
 Protocols like Discourse Graphs, if shared beyond the confines of individual labs, offer a future for science that helps scientists scale with the explosion of information, get credit that reflects their actual contributions, and enable discoveries and ideation beyond their own epistemic bubbles.
