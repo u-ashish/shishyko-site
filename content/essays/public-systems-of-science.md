@@ -31,7 +31,7 @@ We held each other accountable, and learned from one another. All that juicy kno
 
 I wish I recorded these conversations (well, parts of them). Across all labs. And then indexed them to be discovered by others.
 
-Instead, the knowledge contained within that months to years long process of hypothesizing and running experiments, constantly refined through ongoing discussions and tinkering with our entire team, was collapsed into one paper.
+Instead, the knowledge from that months to years long process of hypothesizing and running experiments, constantly refined through ongoing discussions and tinkering with our entire team, was collapsed into one paper.
 
 We'd finish a draft, submit it for peer review, and then after a few more months of back and forth (at a minimum), our revised, typeset manuscript would be beautifully displayed as a PDF for others. Hopefully with the word  `nature` somewhere in the header. And a list of authors, where the first and last got the bulk of the credit and the rest were just there, doing who knows what.
 
@@ -49,7 +49,7 @@ That’s not to say that papers should go away - they are valuable for long-form
 
 What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
 
-[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, like a study or specific claim. Though they haven’t seen mainstream adoption, due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
+[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context. Though they haven’t seen mainstream adoption, due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
 
 New approaches led by researchers are gradually building on some of these ideas. One notable approach is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
 
