@@ -37,9 +37,9 @@ We'd finish a draft, submit it for peer review, and then after a few more months
 
 Does it really have to be this way?
 
-### Share the Discourse
+### Publish the Knowledge, Not the Paper
 
-Indeed many have lamented the problems plaguing science. Solutions have been difficult, because unlike classic software where users flock to better products and services, this ecosystem is gripped by a career incentive system composed of universities and publishers.  Papers, and the citations they accrue, are still the dominant currency for grants, promotions, tenure, and prestige.
+Indeed many have lamented the problems plaguing science. Solutions have been difficult, because unlike classic software where users flock to better products and services, this ecosystem is gripped by a career incentive system where papers, and the citations they accrue, are still the dominant currency for grants, promotions, tenure, and prestige.
 
 Communities of scientists have long recognized these problems and attempted to address it from within. Physicists started making their own findings accessible faster in the early 90s, which eventually turned into arXiv. Today, we have a number of preprint servers from bioRxiv, chemRxiv, medRxiv that allow scientists in their respective fields to share their publications before peer-review.
 
