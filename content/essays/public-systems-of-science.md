@@ -12,7 +12,7 @@ abstract: "How can we unbundle a paper to transform science from a Cathedral int
 
 Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism to coordinate those involved emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, got developed, and were maintained over time. Though it seemed chaotic from the outside, there was a seductive fluidity, and this new system proved far more adaptive and transparent.
 
-This exact tension exists in our systems of science today: slow, siloed, seemingly static. Great science still happens – this is after all a system that gave us CRISPR, CAR-T cell therapy, and so much more.
+This exact tension exists in our systems of science today: slow, siloed, seemingly static. Great science still happens – this is the same system that gave us CRISPR, CAR-T cell therapy, and so much more.
 
 Yet as I reflect on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerges, not just after it's polished? Could such a system unlock even more transformative discoveries?
 
