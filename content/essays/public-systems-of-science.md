@@ -10,19 +10,17 @@ abstract: "How can we unbundle a paper to transform science from a Cathedral int
 
 > I believed that the most important software [...] needed to be built like cathedrals, carefully crafted by individual wizards or small bands of mages working in splendid isolation... the Linux community seemed to resemble a great babbling bazaar of differing agendas and approaches out of which a coherent and stable system could seemingly emerge. - Eric Raymond, The Cathedral and the Bazaar
 
-Not too long ago, there was only "one correct way" to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism to coordinate those involved emerged within the Linux ecosystem. It was almost Darwinian - the way ideas surfaced, got developed, and were maintained over time. Though it seemed chaotic from the outside, there was a seductive fluidity, and this new system proved far more adaptive and transparent.
+Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism to coordinate those involved emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, got developed, and were maintained over time. Though it seemed chaotic from the outside, there was a seductive fluidity, and this new system proved far more adaptive and transparent.
 
-This exact tension exists in our systems of science today. Traditionally slow, siloed, static. Great science still happens - this is after all a system that gave us CRISPR, CAR-T cell therapy, and so much more.
+This exact tension exists in our systems of science today: slow, siloed, seemingly static. Great science still happens – this is after all a system that gave us CRISPR, CAR-T cell therapy, and so much more.
 
-But how much better could it be?
-
-Reflecting on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerges, not just after it's polished? Could such a system unlock even more transformative discoveries?
+Yet as I reflect on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerges, not just after it's polished? Could such a system unlock even more transformative discoveries?
 
 ### The Cathedral of Science
 
 Back in my research days, we'd have weekly lab meetings with our team of overworked, underpaid, unbelievably brilliant scientists.
 
-We'd share updates on experiments and hypotheses, chat about a new paper someone published about a really specific immune target, and show off what we knew, all while devouring glorious free food: donuts, bagels, coffee.
+We'd share updates on experiments and hypotheses, discussed a new paper someone published about a really specific immune target, and show off what we knew, all while devouring glorious free food: donuts, bagels, coffee.
 
 We held each other accountable, and learned from one another. All that juicy knowledge tucked away in each of our brains.
 
@@ -31,35 +29,35 @@ We held each other accountable, and learned from one another. All that juicy kno
 
 > "Hmm. It'd be interesting if we could induce liver cancer in mice with underlying cirrhosis. We already have a way of doing the latter with CCL4. What about an AAV-8 mediated approach?"
 
-I wish I recorded these conversations. Across all labs. And then indexed them to be discovered by others.
+I wish I recorded these conversations (well, parts of them). Across all labs. And then indexed them to be discovered by others.
 
 Instead, the knowledge contained within that months to years long process of hypothesizing and running experiments, constantly refined through ongoing discussions and tinkering with our entire team, was collapsed into one paper.
 
-We'd finish a draft, submit it for peer review, and then went through yet another opaque process that took months with editing, revisions, sometimes new experiments.
-
-Eventually, months or years later, our revised, typeset manuscript would be beautifully displayed for others. Hopefully with the word `nature` somewhere in the header. And a list of authors, where the first and last got the bulk of the credit and the rest were just there, doing who knows what.
+We'd finish a draft, submit it for peer review, and then after a few more months of back and forth (at a minimum), our revised, typeset manuscript would be beautifully displayed as a PDF for others. Hopefully with the word  `nature` somewhere in the header. And a list of authors, where the first and last got the bulk of the credit and the rest were just there, doing who knows what.
 
 Does it really have to be this way?
 
-### The Experiment is our Building Block
+### Share the Building Blocks
 
-Indeed many have lamented the problems plaguing science. Solutions have been difficult, because unlike classic software where users flock to better products and services, this ecosystem is gripped by a career incentive system comprised of universities and publishers.  Papers, and the citations they accrue, are still the dominant currency for grants, promotions, and tenure.
+Indeed many have lamented the problems plaguing science. Solutions have been difficult, because unlike classic software where users flock to better products and services, this ecosystem is gripped by a career incentive system composed of universities and publishers.  Papers, and the citations they accrue, are still the dominant currency for grants, promotions, tenure, and prestige.
 
-Communities of scientists have long recognized these problems and attempted to address it from within. Physicists started making their own findings accessible faster in the early 90s, which eventually turned into arXiv. Now, we have a number of preprint servers from bioRxiv, chemRxiv, medRxiv that allow scientists in those fields to share their publications before peer-review.
+Communities of scientists have long recognized these problems and attempted to address it from within. Physicists started making their own findings accessible faster in the early 90s, which eventually turned into arXiv. Today, we have a number of preprint servers from bioRxiv, chemRxiv, medRxiv that allow scientists in their respective fields to share their publications before peer-review.
 
 Though preprints were an important step in making science more accessible, they continued to treat the paper as the fundamental output of the scientific process.
 
-That’s not to say that papers should go away - they are valuable for long-form, contextualized descriptions of findings. But what’s missing is a way to share knowledge sooner. Science isn’t done in papers, but in weekly experiments full of discussions, dead ends, tinkering, refining, and occasional flashes of insight.
+That’s not to say that papers should go away - they are valuable for long-form, contextualized descriptions of findings. But we lack a way to share knowledge in a way that reflects how we got there. Science isn’t done in papers, but through ongoing experiments full of discussions, dead ends, tinkering, refining, and occasional flashes of insight.
 
-Can the paper itself be unbundled into smaller units of knowledge? Hypotheses linked to evidence – from our own lab and those of others elsewhere. Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
+What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
 
-New approaches led by researchers are gradually emerging to address some of these ideas. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
+[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, like a study or specific claim. Though they haven’t seen mainstream adoption, in part due to career incentive structures, they were a natural evolution from preprints in moving towards faster dissemination of scientific knowledge.
 
-Discourse Graphs represent research ideas as modular, interlinked claims: hypotheses, evidence, critiques, questions. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
+New ideas led by researchers are gradually emerging to build on some of these ideas. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
 
-Equally important is that the intermediate and final results wouldn’t be locked away in PowerPoints and PDFs – two formats that are notoriously difficult for machine readability.
+Discourse Graphs, in a way, mimic the research process itself. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
-Imagine if every lab meeting, idea, brainstorming session, experimental decision lived in such a shared, explorable graph. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
+Within the walls of a lab, basic aspects of science - like ramping up new scientists - becomes orders of magnitude easier with these new approaches. Back in my day, I snuck into a post-doc’s drive on our shared network to rummage through folders of poorly labeled PDFs!
+
+Now imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, shared, explorable graph, unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
 ### Public Science has Transformative Potential
 
@@ -71,15 +69,15 @@ In [her own words](https://tim.blog/2020/12/17/martine-rothblatt-transcript/):
 
 She found a paper - containing a negative result! - that wasn’t about PAH, spotted an individual chart directly relevant to the disease, connected the dots, and quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
 
-What if that figure had never been published? How many other figures and insights are tucked away in powerpoint slides, lab notebooks, minds of individual scientists, in that chaotic process leading up to a polished paper?
+What if that figure had never been published? How many other figures and insights are tucked away in slides, notebooks, or the minds of individual scientists, but never made the cut in that chaotic process leading up to a polished paper?
 
-People have increasingly been saying “do the f@$%ing experiment”. I say it’s also time to publish the experiment.
+People have increasingly been saying “do the f@$%ing experiment”. I think it’s high time to publish the question, experiment, claims, and findings.
 
-Innovations like Discourse Graphs point to what’s possible: a future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
+Ideas like Discourse Graphs point to what’s possible: a future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
-This isn’t just about individual protocols, but a broader, public system of science, where knowledge is shared as it’s built, not only after it’s polished; where collaboration happens across the confines of labs and disciplines, not just within them; and where the system of scientific invites openness and reuse without compromising credit.
+All of this sits within a broader, public system of science where knowledge is shared as it’s built, not only after it’s polished; and where the system of scientific inquiry invites openness and reuse without compromising credit.
 
-Such a future [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) where scientists, funders, investors, and innovators can build, share, and evolve ideas together, in the open. Like the Bazaar, it may be messy – but I’ll bet it’s far more powerful than we’ve dared to imagine.
+Such a future [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) where scientists, funders, investors, and innovators are incentivized to share knowledge faster, to build and evolve ideas together, in the open. It’s not going to build itself, and it’s certainly not going to be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
 As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, I’d love to hear from anyone excited by or completely against this future. Please get in touch at shishyko@gmail.com to lend your voice!
 
