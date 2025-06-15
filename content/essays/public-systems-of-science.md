@@ -49,7 +49,7 @@ That’s not to say that papers should go away - they are valuable for long-form
 
 What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
 
-[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, like a study or specific claim. Though they haven’t seen mainstream adoption, in part due to career incentive structures, they were a natural evolution from preprints in moving towards faster dissemination of scientific knowledge.
+[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, like a study or specific claim. Though they haven’t seen mainstream adoption, due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
 
 New approaches led by researchers are gradually building on some of these ideas. One notable approach is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
 
