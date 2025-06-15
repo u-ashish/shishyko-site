@@ -49,7 +49,7 @@ That’s not to say that papers should go away - they are valuable for long-form
 
 What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
 
-[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context. Though they haven’t seen mainstream adoption, due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
+[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context. [Though they haven’t seen mainstream adoption](https://arxiv.org/pdf/1303.2446), due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
 
 New approaches led by researchers are gradually building on some of these ideas. One notable approach is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
 
@@ -67,13 +67,13 @@ In [her own words](https://tim.blog/2020/12/17/martine-rothblatt-transcript/):
 
 > Finally, I read about a molecule that a researcher at Glaxo Wellcome had written in which they described testing this molecule for congestive heart failure. And it failed in its test of congestive heart failure. It did not work, but in the article, they had charts of what the molecule did. And the one thing that the molecule did that grabbed my attention was that it reduced the pressure between the lung and the heart, which is called the pulmonary artery. It reduced the pulmonary artery pressure while leaving the pressures and all of the rest of the body perfectly fine. Well, that’s exactly the problem with pulmonary arterial hypertension, the people who have this disease.
 
-She eventually found a paper (containing a negative result!) that wasn’t about PAH, spotted an individual chart directly relevant to PAH, connected the dots, and quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
+She found a paper reporting a negative result in a different disease, spotted a chart directly relevant tp PAH, connected the dots, and quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
 
 What if that figure had never been published? How many other figures and insights are tucked away in slides, notebooks, or the minds of individual scientists, but never made the cut in that chaotic process leading up to a polished paper?
 
 People have increasingly been saying “do the f@$%ing experiment”. I think it’s high time to publish the questions, experiments, claims, and findings as they come about.
 
-Ideas like Discourse Graphs point to what’s possible: a potential future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
+Ideas like Discourse Graphs point to what’s possible: a potential future where scientists and innovators can share knowledge faster and leverage evidence more effectively. One where they can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
 
 Such a future isn't about one particular technology, but a shift in how scientists work. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed. This won't build itself, and it certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
