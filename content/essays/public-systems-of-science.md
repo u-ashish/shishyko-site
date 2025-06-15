@@ -16,7 +16,7 @@ This exact tension exists in our systems of science today: slow, siloed, seeming
 
 Yet as I reflect on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerges, not just after it's polished? Could such a system unlock even more transformative discoveries?
 
-### The Cathedral of Science
+### The Cathedral of the Scientific Paper
 
 Back in my research days, we'd have weekly lab meetings with our team of overworked, underpaid, unbelievably brilliant scientists.
 
@@ -47,17 +47,17 @@ Though preprints were an important step in making science more accessible, they 
 
 That’s not to say that papers should go away - they are valuable for long-form, contextualized descriptions of findings. But we lack a way to share knowledge in a way that reflects how we got there. Science isn’t done in papers, but through ongoing experiments full of discussions, dead ends, and occasional flashes of insight.
 
-What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
+What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we quickly published smaller units of knowledge, from which we could assemble papers?
 
 [Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context. [Though they haven’t seen mainstream adoption](https://arxiv.org/pdf/1303.2446), due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
 
-New approaches led by researchers are gradually building on some of these ideas. One notable approach is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
+Anoter notable approach that builds on this is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
 
 Discourse Graphs, in a way, mimic the research process itself. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
-Within the walls of a lab, basic aspects of science - like ramping up new scientists - becomes orders of magnitude easier with these new approaches. Back in my day, I snuck into a post-doc’s drive on our shared network to rummage through folders of poorly labeled PDFs!
+Within the walls of a lab, basic aspects of science - like ramping up new scientists - suddenly become much easier. Back in my day, I snuck into a post-doc’s drive on our shared network to rummage through folders of poorly labeled PDFs!
 
-Now imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, shared, explorable graph, unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
+Now imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, shared, explorable graph, published as they came about at the speed of software, and were unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
 ### The Transformative Potential of the Public Scientist
 
@@ -75,8 +75,10 @@ People have increasingly been saying “do the f@$%ing experiment”. I think it
 
 Ideas like Discourse Graphs point to what’s possible: a potential future where scientists and innovators can share knowledge faster and leverage evidence more effectively. One where they can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
 
-Such a future isn't about one particular technology, but a shift in how scientists work. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed. This won't build itself, and it certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, this public version of science may appear messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
+Such a future isn't about one particular technology, but a shift in how scientists work, new ways of augmenting them with technology, all while preserving the basic tenets of scientific inquiry. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed.
 
-As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, and what has to be systemically true to support that individual, I’d love to hear from anyone excited by, or completely against this future. Please get in touch at shishyko@gmail.com
+This future certainly won't be built through top-down, hierarchical coordination. And like the Bazaar, this public version of science may appear messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
+
+*This is the first part of a series where I conceptually explore a future of science where augmented scientists work iteratively, in public, and the sort of things that have to be systemically true to support that future. I'd love to hear from anyone excited, or completely appalled, by this future. Please get in touch at shishyko@gmail.com*
 
 *Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for listening to me babble about this in recent conversations.*
