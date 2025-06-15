@@ -1,9 +1,9 @@
 ---
-title: "Public Systems of Science"
+title: "The Bazaar of Scientific Knowledge"
 series: "SciOS"
 author: "Ashish Uppala"
 date: "June 2025"
-abstract: "How can we unbundle a paper to transform science from a Cathedral into a Bazaar, and give power back to scientists?"
+abstract: "What's an alternative to the Cathedral of the Scientific Paper, and how can unbundling the paper transfer power back to scientists?"
 ---
 
 #### NOTE! This is just a draft, but is under review and might be published elsewhere if accepted. Sharing here to avoid the irony!
@@ -59,7 +59,7 @@ Within the walls of a lab, basic aspects of science - like ramping up new scient
 
 Now imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, shared, explorable graph, published as they came about at the speed of software, and were unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
-### The Transformative Potential of the Public Scientist
+### The Transformative Potential of the Bazaar
 
 In the 1990s, Martine Rothblatt was the CEO of SiriusXM. Her daughter, Jenesis, had been diagnosed with a terminal illness: Pulmonary Arterial Hypertension (PAH). Determined to find a cure, she famously found relevant research papers, applied citation chaining - or shepardizing, to borrow from law - to trace ideas through older articles, and spotted a key figure in an older paper that might have therapeutic potential.
 
@@ -79,6 +79,6 @@ Such a future isn't about one particular technology, but a shift in how scientis
 
 This future certainly won't be built through top-down, hierarchical coordination. And like the Bazaar, this public version of science may appear messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
-*This is the first part of a series where I conceptually explore a future of science where augmented scientists work iteratively, in public, and the sort of things that have to be systemically true to support that future. I'd love to hear from anyone excited, or completely appalled, by this future. Please get in touch at shishyko@gmail.com*
+*This is the first part of a series where I conceptually explore a future of science where augmented scientists work iteratively, in public, and the sort of things that have to be systemically true to support that future. I'd love to hear from anyone excited, or completely appalled, by this. Please get in touch at shishyko@gmail.com*
 
 *Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for listening to me babble about this in recent conversations.*
