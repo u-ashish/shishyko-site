@@ -37,7 +37,7 @@ We'd finish a draft, submit it for peer review, and then after a few more months
 
 Does it really have to be this way?
 
-### Share the Building Blocks
+### Share the Discourse
 
 Indeed many have lamented the problems plaguing science. Solutions have been difficult, because unlike classic software where users flock to better products and services, this ecosystem is gripped by a career incentive system composed of universities and publishers.  Papers, and the citations they accrue, are still the dominant currency for grants, promotions, tenure, and prestige.
 
@@ -51,7 +51,7 @@ What if the paper itself was unbundled into smaller units of knowledge? Stated d
 
 [Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, like a study or specific claim. Though they haven’t seen mainstream adoption, in part due to career incentive structures, they were a natural evolution from preprints in moving towards faster dissemination of scientific knowledge.
 
-New ideas led by researchers are gradually emerging to build on some of these ideas. Consider for example [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which were originally described by Joel Chan and are becoming a [new, usable protocol](https://discoursegraphs.com/) for researchers to share their own knowledge -- within their labs and outside.
+New approaches led by researchers are gradually building on some of these ideas. One notable approach is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf) which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
 
 Discourse Graphs, in a way, mimic the research process itself. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
@@ -75,10 +75,8 @@ People have increasingly been saying “do the f@$%ing experiment”. I think it
 
 Ideas like Discourse Graphs point to what’s possible: a future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
-All of this sits within a broader, public system of science where knowledge is shared as it’s built, not only after it’s polished; and where the system of scientific inquiry invites openness and reuse without compromising credit.
+Such a future [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) where scientists, funders, and others are incentivized to share knowledge as it's built, in the open. This infrastructure isn't going to build itself, and it certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
-Such a future [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) where scientists, funders, investors, and innovators are incentivized to share knowledge faster, to build and evolve ideas together, in the open. It’s not going to build itself, and it’s certainly not going to be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
-
-As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, I’d love to hear from anyone excited by or completely against this future. Please get in touch at shishyko@gmail.com to lend your voice!
+As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, and what has to be systemically true to support that individual, I’d love to hear from anyone excited by, or completely against this future. Please get in touch at shishyko@gmail.com to lend your voice (or yell at me)!
 
 *Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for listening to me babble about this in recent conversations.*
