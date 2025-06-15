@@ -45,7 +45,7 @@ Communities of scientists have long recognized these problems and attempted to a
 
 Though preprints were an important step in making science more accessible, they continued to treat the paper as the fundamental output of the scientific process.
 
-That’s not to say that papers should go away - they are valuable for long-form, contextualized descriptions of findings. But we lack a way to share knowledge in a way that reflects how we got there. Science isn’t done in papers, but through ongoing experiments full of discussions, dead ends, tinkering, refining, and occasional flashes of insight.
+That’s not to say that papers should go away - they are valuable for long-form, contextualized descriptions of findings. But we lack a way to share knowledge in a way that reflects how we got there. Science isn’t done in papers, but through ongoing experiments full of discussions, dead ends, and occasional flashes of insight.
 
 What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
 
@@ -75,8 +75,10 @@ People have increasingly been saying “do the f@$%ing experiment”. I think it
 
 Ideas like Discourse Graphs point to what’s possible: a potential future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
 
-Such a future [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) where scientists, funders, and others are incentivized to openly share knowledge as it's developed. This isn't going to build itself, and it certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
+Such a future isn't about one particular technology, but a shift in how scientists work. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed.
 
-As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, and what has to be systemically true to support that individual, I’d love to hear from anyone excited by, or completely against this future. Please get in touch at shishyko@gmail.com to lend your voice (or yell at me)!
+This won't build itself, and it certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
+
+As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, and what has to be systemically true to support that individual, I’d love to hear from anyone excited by, or completely against this future. Please get in touch at shishyko@gmail.com
 
 *Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for listening to me babble about this in recent conversations.*
