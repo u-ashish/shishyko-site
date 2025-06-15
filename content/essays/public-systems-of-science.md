@@ -59,7 +59,7 @@ Within the walls of a lab, basic aspects of science - like ramping up new scient
 
 Now imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, shared, explorable graph, unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
-### Public Science has Transformative Potential
+### The Transformative Potential of the Public Scientist
 
 In the 1990s, Martine Rothblatt was the CEO of SiriusXM. Her daughter, Jenesis, had been diagnosed with a terminal illness: Pulmonary Arterial Hypertension (PAH). Determined to find a cure, she famously found relevant research papers, applied citation chaining - or shepardizing, to borrow from law - to trace ideas through older articles, and spotted a key figure in an older paper that might have therapeutic potential.
 
@@ -73,11 +73,9 @@ What if that figure had never been published? How many other figures and insight
 
 People have increasingly been saying “do the f@$%ing experiment”. I think it’s high time to publish the questions, experiments, claims, and findings as they come about.
 
-Ideas like Discourse Graphs point to what’s possible: a potential future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, receive credit that reflects their real contributions, and spark transformative insights beyond their own epistemic bubbles.
+Ideas like Discourse Graphs point to what’s possible: a potential future where scientists and innovators can disseminate knowledge faster, scale with the explosion of information, leverage evidence at scale, spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
 
-Such a future isn't about one particular technology, but a shift in how scientists work. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed.
-
-This won't build itself, and it certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
+Such a future isn't about one particular technology, but a shift in how scientists work. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed. This won't build itself, and it certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, it may be messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
 As I continue this series and conceptually explore what it means to be an augmented scientist that works iteratively, in public, and what has to be systemically true to support that individual, I’d love to hear from anyone excited by, or completely against this future. Please get in touch at shishyko@gmail.com
 
