@@ -51,7 +51,7 @@ What if the paper itself was unbundled into smaller units of knowledge? Stated d
 
 [Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context. [Though they haven’t seen mainstream adoption](https://arxiv.org/pdf/1303.2446), due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
 
-Anoter notable approach that builds on this is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
+Another notable approach that builds on this is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
 
 Discourse Graphs, in a way, mimic the research process itself. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
