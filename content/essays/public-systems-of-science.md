@@ -61,7 +61,7 @@ Some early efforts have tried to move in this direction. There are [Nanopublicat
 
 Discourse Graphs, in a way, mimic the research process itself. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
-While these new approaches show promise in re-calibrating what counts as “publishable”, we’re not there yet.
+While these new approaches show promise in re-calibrating what counts as “publishable”, we’re not there yet. What they lack are reasons for adoption, positioning for scale across and within disciplines, a pathway for interoperability with existing scientific infrastructure today, and top-down support from funders to help drive change.
 
 ### Scientific Collaboration Infrastructure
 
