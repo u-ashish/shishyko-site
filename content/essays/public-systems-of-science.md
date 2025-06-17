@@ -20,7 +20,7 @@ As I reflect on Eric Raymond’s analysis in The Cathedral and the Bazaar, I can
 
 A modern, perhaps public system of science that’s decentralized, collaborative, and faster. Where scientists work iteratively, are empowered to share not just polished findings, but hypotheses, claims, evidence sooner. One where it’s easier to contextualize knowledge at scale.
 
-By rethinking what counts as a publishable unit of knowledge, properly tracking and crediting authorship contributions, and creating infrastructure to capture, share, and update knowledge as it actually happens, we can build a system that reflects how science actually happens, and unlock faster, more collaborative discovery. 
+By rethinking what counts as a publishable unit of knowledge, properly tracking and crediting authorship contributions, and creating a new substrate to represent our collective knowledge, we can build a system that reflects how science actually happens, and unlock faster, more collaborative, and transformative discovery. 
 
 ### Polish and Perish: The Cathedral Erases Knowledge 
 
@@ -49,9 +49,9 @@ Science isn’t done in papers. And their existing format, while well-intentione
 
 ### Publish Discrete Knowledge Units, Not Just the Paper
 
-The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: giving scientists a predictable structure to clearly communicate their work, with context, and ensure others could reproduce their experiments.
+The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: it gave scientists a predictable structure to clearly communicate their work, with context, and ensured others could reproduce their experiments. Papers, in this form, became a way of representing our cumulative knowledge, as peers within fields built off of their collective understanding and approximation of reality.
 
-Before the internet, this format worked well for organizing scientific knowledge at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
+Before the internet, this substrate of knowledge organized scientific knowledge at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
 
 But technology transformed what’s possible, and a system that evolved over decades on outdated assumptions couldn’t keep pace.
 
@@ -73,7 +73,7 @@ While these new approaches show promise in re-calibrating what counts as “publ
 
 In a way, this brings us full circle to an earlier mode of scholarly communication - now with modern infrastructure and guardrails that guarantee data quality and consistency while preserving authorship attribution and invention priority.
 
-Scientific papers still matter, but as structured outputs of a deeper, shared substrate of scientific reasoning.
+Scientific papers still matter, but as structured outputs of a deeper, shared substrate of scientific knowledge.
 
 Imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, explorable graph, published as they came about, and were unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
