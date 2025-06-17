@@ -10,17 +10,11 @@ abstract: "What if we didn't collapse all the knowledge from the scientific proc
 
 > I believed that the most important software [...] needed to be built like cathedrals, carefully crafted by individual wizards or small bands of mages working in splendid isolation... the Linux community seemed to resemble a great babbling bazaar of differing agendas and approaches out of which a coherent and stable system could seemingly emerge. - Eric Raymond, The Cathedral and the Bazaar
 
-Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, evolved, and endured. Though it seemed chaotic from the outside, it proved far more adaptive, transparent, and generative.
+Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, evolved, and endured. Though it seemed chaotic from the outside, it proved far more adaptive and transparent
 
-This exact tension exists in science today: slow, siloed, and centered on polished artifacts. Yet this same system gave us CRISPR, CAR-T cell therapy, and mRNA vaccines.
+Our current system of science is similarly slow, siloed, and centered around crafted, polished papers. A process that was optimized for a different era. And though this system gave us breakthroughs like CRISPR, CAR-T cell therapy, and so much more, as I reflect on Eric Raymond’s analysis in The Cathedral and the Bazaar, I can’t help but wonder how much more we could achieve if we borrowed lessons from the Bazaar.
 
-Still, the process remains optimized for a different era. Most of what’s learned in science - the discarded hypotheses, failed experiments, subtle insights - is lost or locked away. Knowledge is shared late, selectively, and often too narrowly.
-
-As I reflect on Eric Raymond’s analysis in The Cathedral and the Bazaar, I can’t help but wonder how much more we could achieve if we borrowed lessons from the Bazaar.
-
-A modern, perhaps public system of science that’s decentralized, collaborative, and faster. Where scientists work iteratively, are empowered to share not just polished findings, but hypotheses, claims, evidence sooner. One where it’s easier to contextualize knowledge at scale.
-
-By rethinking what counts as a publishable unit of knowledge, properly tracking and crediting authorship contributions, and creating a new substrate to represent our collective knowledge, we can build a system that reflects how science actually happens, and unlock faster, more collaborative, and transformative discovery. 
+By rethinking how we represent knowledge at a level deeper than the paper and properly tracking and crediting intellectual contributions of authors, we can lay a new foundation for our collective knowledge. One that unlocks a future of science that reflects how science actually happens, with more collaborative, efficient, and transformative discovery.
 
 ### Polish and Perish: The Cathedral Erases Knowledge 
 
