@@ -57,11 +57,9 @@ What if the paper itself was decomposed into smaller units of knowledge? Stated 
 
 Some early efforts have tried to move in this direction. There are [Nanopublications](https://nanopub.net/), which allow scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context.
 
-[Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), which were developed by Dr. Joel Chan and others, are being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and beyond.
+[Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), developed by Dr. Joel Chan and others, mimic the research process itself: iteratively asking questions and attempting to invalidate hypotheses. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
-Discourse Graphs, in a way, mimic the research process itself. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
-
-While these new approaches show promise in re-calibrating what counts as “publishable”, we’re not there yet. What they lack are reasons for adoption, positioning for scale across and within disciplines, a pathway for interoperability with existing scientific infrastructure today, and top-down support from funders to help drive change.
+While these new approaches show promise in re-calibrating what counts as “publishable”, what they lack are reasons for adoption, positioning for scale across and within disciplines, a pathway for interoperability with existing scientific infrastructure today, and top-down support from funders to help drive change.
 
 ### Scientific Collaboration Infrastructure
 
@@ -77,11 +75,11 @@ New investigators could easily narrow in on the part of a field they were intere
 
 Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement. It’d be an alternative that proves its value over time.
 
-And with a core, shared structure internally, it’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) and convert them into our new structure so scientists don’t lose anything by moving to a new set of rails.
+Does this mean that every researcher suddenly has to adopt yet another new tool? Not necessarily. If there was a common data infrastructure, imagine having AI agents that parsed your notes or powerpoint slides, wherever they were, and generated these more granular units, and brought them into the central graph (with your review). It’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) into our new structure so scientists don’t lose anything by moving to a new set of rails.
 
 This new stack would support different types of knowledge. Science today only distributes the type of knowledge that makes it through the publication gauntlet. What about negative results that didn’t make the cut, which are equally important? Or other types of arguments and tacit knowledge that are crucial for understanding something, discussed in lab meetings as a way to teach new researchers, but aren’t distributed evenly across each field?
 
-Unlike our existing stack, this new one would support AI systems that could reason across claims, connect distant fields, and propose new experiments based on the right primitives for each field. 
+Unlike our existing stack, this new one would enable AI agents to efficiently reason across claims, connect distant fields, and propose new experiments based on the right primitives for each field. 
 
 Most importantly, the new stack isn’t just technical, but social as well. Funders and universities would need to play an important role in driving the adoption of new forms of sharing research, and creating new ways to help investigators demonstrate the impact of their work. 
 
