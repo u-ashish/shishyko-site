@@ -10,13 +10,19 @@ abstract: "What if we didn't collapse all the knowledge from the scientific proc
 
 > I believed that the most important software [...] needed to be built like cathedrals, carefully crafted by individual wizards or small bands of mages working in splendid isolation... the Linux community seemed to resemble a great babbling bazaar of differing agendas and approaches out of which a coherent and stable system could seemingly emerge. - Eric Raymond, The Cathedral and the Bazaar
 
-Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism to coordinate those involved emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, got developed, and were maintained over time. Though it seemed chaotic from the outside, there was a seductive fluidity, and this new system proved far more adaptive and transparent.
+Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, evolved, and endured. Though it seemed chaotic from the outside, it proved far more adaptive, transparent, and generative.
 
-This exact tension exists in our systems of science today: slow, siloed, seemingly static. Great science still happens – this is the same system that gave us CRISPR, CAR-T cell therapy, and so much more.
+This exact tension exists in science today: slow, siloed, and centered on polished artifacts. Yet this same system gave us CRISPR, CAR-T cell therapy, and mRNA vaccines.
 
-Yet as I reflect on Eric Raymond's analysis in *The Cathedral and the Bazaar*, I can't help but wonder: what if science, too, operated in a more public and fluid way? Where researchers share knowledge as it emerges, not just after it's polished? Could such a system unlock even more transformative discoveries?
+Still, the process remains optimized for a different era. Most of what’s learned in science - the discarded hypotheses, failed experiments, subtle insights - is lost or locked away. Knowledge is shared late, selectively, and often too narrowly.
 
-### The Cathedral of the Scientific Paper
+As I reflect on Eric Raymond’s analysis in The Cathedral and the Bazaar, I can’t help but wonder how much better things could be if we borrowed lessons from the Bazaar.
+
+A modern, perhaps public system of science that’s decentralized, collaborative, and faster. Where scientists work iteratively, are empowered to share not just polished findings, but hypotheses, claims, evidence sooner. One where it’s easier to contextualize knowledge at scale.
+
+By rethinking what counts as a publishable unit of knowledge, properly tracking and crediting authorship contributions, and creating infrastructure to capture, share, and update knowledge as it actually happens, we can build a system that reflects how science actually happens, and unlock faster, more collaborative discovery. 
+
+### Polish and Perish: The Cathedral Erases Knowledge 
 
 Back in my research days, we'd have weekly lab meetings with our team of overworked, underpaid, unbelievably brilliant scientists.
 
@@ -37,7 +43,7 @@ We'd finish a draft, submit it for peer review, and then after a few more months
 
 Does it really have to be this way?
 
-### Publish the Knowledge, Not Just the Paper
+### Publish Discrete Knowledge Units, Not Just the Paper
 
 Indeed many have lamented the problems plaguing science. Solutions have been difficult, because unlike classic software where users flock to better products and services, this ecosystem is gripped by a career incentive system where papers, and the citations they accrue, are still the dominant currency for grants, promotions, tenure, and prestige.
 
