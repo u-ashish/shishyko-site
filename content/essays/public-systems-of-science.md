@@ -45,29 +45,37 @@ Future readers would never know how we got there, only what we chose to include 
 
 What detours did we take in that process of coming up with hypotheses that sometimes feels like a large-language model hallucinating? Which of those were dead ends? Why? How did we know not to try a certain approach? In what ways did we troubleshoot failures? And of all the authors on this paper, who actually contributed to which parts?
 
-Science isn’t done in papers. And their existing format, while well-intentioned, doesn’t adequately capture different types of knowledge that’s generated in the scientific process.
+Science isn’t done in papers. And their existing format, while well-intentioned, doesn’t adequately capture different types of knowledge that’s generated in the scientific process. To publish today is to polish, and in polishing, we erase. We need to preserve the uncut gems of the scientific process.
 
 ### Publish Discrete Knowledge Units, Not Just the Paper
 
-Indeed many have lamented the problems plaguing science. Solutions have been difficult, because unlike classic software where users flock to better products and services, this ecosystem is gripped by a career incentive system where papers, and the citations they accrue, are still the dominant currency for grants, promotions, tenure, and prestige.
+The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: giving scientists a predictable structure to clearly communicate their work, with context, and ensure others could reproduce their experiments.
 
-Communities of scientists have long recognized these problems and attempted to address it from within. Physicists started making their own findings accessible faster in the early 90s, which eventually turned into arXiv. Today, we have a number of preprint servers from bioRxiv, chemRxiv, medRxiv that allow scientists in their respective fields to share their publications before peer-review.
+Before the internet, this format worked well for organizing scientific knowledge at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
 
-Though preprints were an important step in making science more accessible, they continued to treat the paper as the fundamental output of the scientific process.
+But technology transformed what’s possible, and a system that evolved over decades on outdated assumptions couldn’t keep pace.
 
-That’s not to say that papers should go away - they are valuable for long-form, contextualized descriptions of findings. But we lack a way to share knowledge in a way that reflects how we got there. Science isn’t done in papers, but through ongoing experiments full of discussions, dead ends, and occasional flashes of insight.
+Communities of scientists have long recognized that this system slowed down communication with increasingly longer review cycles and attempted to address it from within. Physicists started making their own findings accessible faster in the early 90s, which eventually turned into arXiv. Today, we have a number of preprint servers from bioRxiv, chemRxiv, medRxiv that allow scientists in their respective fields to share their publications before peer-review.
 
-What if the paper itself was unbundled into smaller units of knowledge? Stated differently, what if we quickly published smaller units of knowledge, from which we could assemble papers?
+Though preprints were an important step in improving the speed of knowledge sharing (long peer-review times) and accessibility of research (paywalls), they continued to treat the paper as the fundamental output of the scientific process, bundling the introduction, methods, results, and discussion as one.
 
-[Nanopublications](https://nanopub.net/) were one approach which allowed scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context. [Though they haven’t seen mainstream adoption](https://arxiv.org/pdf/1303.2446), due in part to career incentive structures, they were another step, like preprints, towards a faster dissemination of scientific knowledge.
+What if the paper itself was decomposed into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
 
-Another notable approach that builds on this is the [Discourse Graph](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), which was originally described by Dr. Joel Chan and is being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and outside.
+Some early efforts have tried to move in this direction. There are [Nanopublications](https://nanopub.net/), which allow scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context.
+
+[Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), which were developed by Dr. Joel Chan and others, are being tested as a [new, usable protocol](https://discoursegraphs.com/) for researchers to document and share their own knowledge -- within their labs and beyond.
 
 Discourse Graphs, in a way, mimic the research process itself. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
-Within the walls of a lab, basic aspects of science - like ramping up new scientists - suddenly become much easier. Back in my day, I snuck into a post-doc’s drive on our shared network to rummage through folders of poorly labeled PDFs!
+While these new approaches show promise in re-calibrating what counts as “publishable”, we’re not there yet.
 
-Now imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, shared, explorable graph, published as they came about at the speed of software, and were unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
+*[todo Finish fleshing this part out!]*
+
+In a way, this brings us full circle to an earlier mode of scholarly communication - now with modern infrastructure and guardrails that guarantee data quality and consistency while preserving authorship attribution and invention priority.
+
+Scientific papers still matter, but as structured outputs of a deeper, shared substrate of scientific reasoning.
+
+Imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, explorable graph, published as they came about, and were unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
 ### The Transformative Potential of the Bazaar
 
@@ -79,11 +87,11 @@ In [her own words](https://tim.blog/2020/12/17/martine-rothblatt-transcript/):
 
 She found a paper reporting a negative result in a different disease, spotted a figure directly relevant to PAH, connected the dots, and quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
 
-What if that figure had never been published? How many other figures and insights are tucked away in slides, notebooks, or the minds of individual scientists, but never make the cut in that chaotic process leading up to a polished paper, or preprint?
+What if that figure had never been published? How many other figures and insights are tucked away in slides, notebooks, or the minds of individual scientists, but never make the cut in that chaotic process leading up to a polished paper, or preprint? What tacit knowledge do scientists have that would help them quickly invalidate a published experimental result, that an outsider like Martine might not have?
 
 People have increasingly been saying “do the f@$%ing experiment”. I think it’s high time to publish the questions, experiments, claims, and findings as they come about.
 
-Ideas like Discourse Graphs point to what’s possible: a potential future where scientists and innovators can share knowledge faster and leverage evidence more effectively. One where they can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
+By re-thinking the underlying representation of knowledge and how we build and maintain it, we can move towards a future where scientists and innovators can share knowledge faster and leverage evidence more effectively. One where they can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
 
 Such a future isn't about one particular technology, but a shift in how scientists work, new ways of augmenting them with technology, all while preserving the basic tenets of scientific inquiry. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed.
 
