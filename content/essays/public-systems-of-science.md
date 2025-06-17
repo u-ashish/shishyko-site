@@ -75,9 +75,9 @@ When it came time to assemble findings that we published and that others might h
 
 New investigators could easily narrow in on the part of a field they were interested in and trace ideas more naturally. Back in my day, I was secretly logging into drives of postdocs on our shared network and rummaging through folders of poorly named PDFs!
 
-Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement. It’d be an alternative that over time, demonstrates its value. And with a core, shared structure internally, it’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) and convert them into our new structure so scientists don’t lose anything by moving to a new set of rails.
+Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement. It’d be an alternative that proves its value over time.
 
-This new stack would support different types of knowledge. Science today only distributes the type of knowledge that makes it through the publication gauntlet. What about negative results that didn’t make the cut, which are equally important? Or other types of arguments and tacit knowledge that are crucial for understanding something, discussed in lab meetings as a way to teach new researchers, but aren’t distributed evenly across each field?
+And with a core, shared structure internally, it’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) and convert them into our new structure so scientists don’t lose anything by moving to a new set of rails.
 
 Unlike our existing stack, this new one would support AI systems that could reason across claims, connect distant fields, and propose new experiments based on the right primitives for each field. 
 
