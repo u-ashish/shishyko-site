@@ -16,7 +16,7 @@ This exact tension exists in science today: slow, siloed, and centered on polish
 
 Still, the process remains optimized for a different era. Most of what’s learned in science - the discarded hypotheses, failed experiments, subtle insights - is lost or locked away. Knowledge is shared late, selectively, and often too narrowly.
 
-As I reflect on Eric Raymond’s analysis in The Cathedral and the Bazaar, I can’t help but wonder how much better things could be if we borrowed lessons from the Bazaar.
+As I reflect on Eric Raymond’s analysis in The Cathedral and the Bazaar, I can’t help but wonder how much more we could achieve if we borrowed lessons from the Bazaar.
 
 A modern, perhaps public system of science that’s decentralized, collaborative, and faster. Where scientists work iteratively, are empowered to share not just polished findings, but hypotheses, claims, evidence sooner. One where it’s easier to contextualize knowledge at scale.
 
@@ -26,22 +26,26 @@ By rethinking what counts as a publishable unit of knowledge, properly tracking 
 
 Back in my research days, we'd have weekly lab meetings with our team of overworked, underpaid, unbelievably brilliant scientists.
 
-We'd share updates on experiments and hypotheses, discussed a new paper someone published about a really specific immune target, and show off what we knew, all while devouring glorious free food: donuts, bagels, coffee.
+We'd share updates on experiments and hypotheses, discuss a new paper someone published about a really specific immune target, and show off what we knew.
 
-We held each other accountable, and learned from one another. All that juicy knowledge tucked away in each of our brains.
+These meetings were, in a way, our weekly bazaars. Sometimes structured, sometimes chaotic. Full of food – donuts, bagels, and coffee. We didn’t just run off and work by ourselves for months. We had to iterate. Propose ideas, discuss them. It’s how we learned from one another and held each other accountable. All that juicy knowledge tucked away in each of our brains.
 
 > "No, no, you can't trust that paper. That PI always fudges their data in these ways. See? I'm not sure we can incorporate those ideas into our own experiments."
 
 
 > "Hmm. It'd be interesting if we could induce liver cancer in mice with underlying cirrhosis. We already have a way of doing the latter with CCL4. What about an AAV-8 mediated approach?"
 
-I wish I recorded these conversations (well, parts of them). Across all labs. And then indexed them to be discovered by others.
+I wish I recorded these conversations (well, parts of them).
 
-Instead, the knowledge from that months to years long process of hypothesizing and running experiments, constantly refined through ongoing discussions and tinkering with our entire team, was collapsed into one paper.
+Instead, the knowledge from our months or sometimes years of hypothesizing and running experiments, constantly refined through discussions and tinkering with our entire team, was lost. At best it was trapped in lab notebooks and powerpoint slides, never to be looked at again by a person, or a machine.
 
-We'd finish a draft, submit it for peer review, and then after a few more months of back and forth (at a minimum), our revised, typeset manuscript would be beautifully displayed as a PDF for others. Hopefully with the word  `nature` somewhere in the header. And a list of authors, where the first and last got the bulk of the credit and the rest were just there, doing who knows what.
+Over a period of months to years, we’d analyze data, finish a draft, submit it for peer review, and then get a revised, typeset manuscript that would be beautifully displayed as a PDF. For human eyes only.
 
-Does it really have to be this way?
+Future readers would never know how we got there, only what we chose to include after some intellectual arm-wrestling with our editor and reviewers.
+
+What detours did we take in that process of coming up with hypotheses that sometimes feels like a large-language model hallucinating? Which of those were dead ends? Why? How did we know not to try a certain approach? In what ways did we troubleshoot failures? And of all the authors on this paper, who actually contributed to which parts?
+
+Science isn’t done in papers. And their existing format, while well-intentioned, doesn’t adequately capture different types of knowledge that’s generated in the scientific process.
 
 ### Publish Discrete Knowledge Units, Not Just the Paper
 
