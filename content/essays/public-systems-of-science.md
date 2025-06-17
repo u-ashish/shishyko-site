@@ -63,11 +63,27 @@ Discourse Graphs, in a way, mimic the research process itself. They model ideas 
 
 While these new approaches show promise in re-calibrating what counts as “publishable”, we’re not there yet.
 
-*[todo Finish fleshing this part out!]*
+This new infrastructure would need to go beyond letting researchers track questions, claims, and evidence in their note-taking tools. It’d need to unify that granular element of scientific inquiry in a centralized graph with permission boundaries for public domain, the scope of a lab, and so on.
 
-In a way, this brings us full circle to an earlier mode of scholarly communication - now with modern infrastructure and guardrails that guarantee data quality and consistency while preserving authorship attribution and invention priority.
+Not everything in research is text: sometimes we have datasets, complex figures, videos, so multimodal support would be essential. And like existing science, it would need the concept of citations, but not just between papers to papers, but expanded to more types of nodes in the graph, e.g. to a type of dataset, software, or chart.
 
-Scientific papers still matter, but as structured outputs of a deeper, shared substrate of scientific knowledge.
+Authorship would be tracked similar to commits in GitHub, unlocking new ways of recognizing the contributions of individual scientists. There’s no reason that career outcomes in science should be as bimodally distributed as they are. Imagine a more liquid job market for researchers, who can easily point to the thing they did and meaningfully demonstrate its downstream impact to have more optionality in their careers.
+
+When it came time to assemble findings that we published and that others might have published, we could synthesize each knowledge unit - perhaps automatically - to generate a narrative representation that contextualizes the problem, what the results are (assembled through each building block), and offer a discussion. Multiple blocks could stack into a paper, while individual blocks and papers would generally broaden the surface area for transformative insight.
+
+New investigators could easily narrow in on the part of a field they were interested in and trace ideas more naturally. Back in my day, I was secretly logging into drives of postdocs on our shared network and rummaging through folders of poorly named PDFs!
+
+Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement. It’d be an alternative that over time, demonstrates its value. And with a core, shared structure internally, it’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) and convert them into our new structure so scientists don’t lose anything by moving to a new set of rails.
+
+This new stack would support different types of knowledge. Science today only distributes the type of knowledge that makes it through the publication gauntlet. What about negative results that didn’t make the cut, which are equally important? Or other types of arguments and tacit knowledge that are crucial for understanding something, discussed in lab meetings as a way to teach new researchers, but aren’t distributed evenly across each field?
+
+Unlike our existing stack, this new one would support AI systems that could reason across claims, connect distant fields, and propose new experiments based on the right primitives for each field. 
+
+Most importantly, the new stack isn’t just technical, but social as well. Funders and universities would need to play an important role in driving the adoption of new forms of sharing research, and creating new ways to help investigators demonstrate the impact of their work. 
+
+In a way, the core of this new data model - sharing individual units of knowledge - brings us full circle to an earlier mode of scholarly communication before IMRaD - but now with modern infrastructure and guardrails that enforce data quality and consistency while preserving authorship attribution and invention priority.
+
+Scientific papers still have a place, but as structured outputs of a deeper, more granular, shared substrate of scientific knowledge.
 
 Imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, explorable graph, published as they came about, and were unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
@@ -85,11 +101,11 @@ What if that figure had never been published? How many other figures and insight
 
 People have increasingly been saying “do the f@$%ing experiment”. I think it’s high time to publish the questions, experiments, claims, and findings as they come about.
 
-By re-thinking the underlying representation of knowledge and how we build and maintain it, we can move towards a future where scientists and innovators can share knowledge faster and leverage evidence more effectively. One where they can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
+By re-thinking the underlying representation of knowledge, and the funding and technology stack that helps us maintain and scale it, we can move towards a future where scientists and innovators can share knowledge faster and leverage evidence more effectively. One where they can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
 
 Such a future isn't about one particular technology, but a shift in how scientists work, new ways of augmenting them with technology, all while preserving the basic tenets of scientific inquiry. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed.
 
-This future certainly won't be built through top-down, hierarchical coordination. And like the Bazaar, this public version of science may appear messy, but I’ll bet the end result is far more powerful than we’ve dared to imagine.
+This future certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, this public version of science may appear messy. But I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
 *This is the first part of a series where I conceptually explore a future of science where augmented scientists work iteratively, in public, and the sort of things that have to be systemically true to support that future. I'd love to hear from anyone excited, or completely appalled, by this. Please get in touch at shishyko@gmail.com*
 
