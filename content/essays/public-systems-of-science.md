@@ -49,7 +49,7 @@ Science isn’t done in papers. And their existing format, while well-intentione
 
 ### Publish Discrete Knowledge Units, Not Just the Paper
 
-The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: it gave scientists a predictable structure to clearly communicate their work, with context, and ensured others could reproduce their experiments. Papers, in this form, became a way of representing our cumulative knowledge, as peers within fields built off of their collective understanding and approximation of reality.
+The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: it gave scientists a predictable structure to clearly communicate their work, with context, and ensured others could reproduce their experiments. Papers became a way of representing our cumulative knowledge, as peers within fields built off of their collective understanding and approximation of reality.
 
 Before the internet, this substrate of knowledge organized scientific knowledge at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
 
@@ -59,7 +59,7 @@ Communities of scientists have long recognized that this system slowed down comm
 
 Though preprints were an important step in improving the speed of knowledge sharing (long peer-review times) and accessibility of research (paywalls), they continued to treat the paper as the fundamental output of the scientific process, bundling the introduction, methods, results, and discussion as one.
 
-What if the paper itself was decomposed into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers?
+What if the paper itself was decomposed into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers, and synthesize new ideas?
 
 Some early efforts have tried to move in this direction. There are [Nanopublications](https://nanopub.net/), which allow scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context.
 
