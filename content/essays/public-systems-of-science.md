@@ -12,9 +12,9 @@ abstract: "What if we didn't collapse all the knowledge from the scientific proc
 
 Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, evolved, and endured. Though it seemed chaotic from the outside, it proved far more adaptive and transparent
 
-Our current system of science is similarly slow, siloed, and centered around crafted, polished papers. A process that was optimized for a different era. And though this system gave us breakthroughs like CRISPR, CAR-T cell therapy, and so much more, as I reflect on Eric Raymond’s analysis in The Cathedral and the Bazaar, I can’t help but wonder how much more we could achieve if we borrowed lessons from the Bazaar.
+Our current system of science is similarly slow, siloed, and centered around crafted, polished papers. A process that was optimized for a different era. And though this system gave us breakthroughs like CRISPR, CAR-T cell therapy, and so much more, as I reflect on Eric Raymond’s analysis in *The Cathedral and the Bazaar*, I can’t help but wonder how much more we could achieve if we borrowed lessons from the Bazaar.
 
-By rethinking how we represent knowledge at a level deeper than the paper and properly tracking and crediting intellectual contributions of authors, we can lay a new foundation for our collective knowledge. One that unlocks a future of science that reflects how science actually happens, with more collaborative, efficient, and transformative discovery.
+By rethinking how we represent knowledge at a level deeper than the paper and properly tracking and crediting intellectual contributions of authors, we can lay a new foundation that unlocks a future of science which reflects how science actually happens, with more collaboration, faster iteration, and efficient, transformative discovery.
 
 ### Polish and Perish: The Cathedral Erases Knowledge 
 
@@ -45,7 +45,7 @@ Science isn’t done in papers. And their existing format, while well-intentione
 
 The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: it gave scientists a predictable structure to clearly communicate their work, with context, and ensured others could reproduce their experiments. Papers became a way of representing our cumulative knowledge, as peers within fields built off of their collective understanding and approximation of reality.
 
-Before the internet, this substrate of knowledge was organized at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
+Before the internet, this infrastructure, or substrate of knowledge was organized at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
 
 But technology transformed what’s possible, and a system that evolved over decades on outdated assumptions couldn’t keep pace.
 
