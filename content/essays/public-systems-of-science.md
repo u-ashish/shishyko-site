@@ -3,7 +3,7 @@ title: "The Bazaar of Scientific Knowledge"
 series: "SciOS"
 author: "Ashish Uppala"
 date: "June 2025"
-abstract: "What's an alternative to the Cathedral of the Scientific Paper, and how can unbundling the paper transfer power back to scientists?"
+abstract: "What if we didn't collapse all the knowledge from the scientific process into one paper?"
 ---
 
 #### NOTE! This is just a draft, but is under review and might be published elsewhere if accepted. Sharing here to avoid the irony!
