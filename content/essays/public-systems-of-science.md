@@ -51,7 +51,7 @@ Science isn’t done in papers. And their existing format, while well-intentione
 
 The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: it gave scientists a predictable structure to clearly communicate their work, with context, and ensured others could reproduce their experiments. Papers became a way of representing our cumulative knowledge, as peers within fields built off of their collective understanding and approximation of reality.
 
-Before the internet, this substrate of knowledge organized scientific knowledge at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
+Before the internet, this substrate of knowledge was organized at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
 
 But technology transformed what’s possible, and a system that evolved over decades on outdated assumptions couldn’t keep pace.
 
