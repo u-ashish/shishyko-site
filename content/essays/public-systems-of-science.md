@@ -67,17 +67,19 @@ While these new approaches show promise in re-calibrating what counts as “publ
 
 This new infrastructure would need to go beyond letting researchers track questions, claims, and evidence in their note-taking tools. It’d need to unify that granular element of scientific inquiry in a centralized graph with permission boundaries for public domain, the scope of a lab, and so on.
 
-Not everything in research is text: sometimes we have datasets, complex figures, videos, so multimodal support would be essential. And like existing science, it would need the concept of citations, but not just between papers to papers, but expanded to more types of nodes in the graph, e.g. to a type of dataset, software, or chart.
+Of course, not everything in research is text: sometimes we have datasets, complex figures, videos, so multimodal support would be essential. And like existing science, it would need the concept of citations, but not just between papers to papers, but expanded to more types of nodes in the graph, e.g. to a type of dataset, software, or chart.
 
-Authorship would be tracked similar to commits in GitHub, unlocking new ways of recognizing the contributions of individual scientists. There’s no reason that career outcomes in science should be as bimodally distributed as they are. Imagine a more liquid job market for researchers, who can easily point to the thing they did and meaningfully demonstrate its downstream impact to have more optionality in their careers.
+Authorship would be tracked similar to commits in git, unlocking new ways of recognizing the contributions of individual scientists. There’s no reason that career outcomes in science should be as bimodally distributed as they are. Imagine a more liquid job market for researchers, who can easily point to the thing they did and meaningfully demonstrate its downstream impact to have more optionality in their careers.
 
-When it came time to assemble findings that we published and that others might have published, we could synthesize each knowledge unit - perhaps automatically - to generate a narrative representation that contextualizes the problem, what the results are (assembled through each building block), and offer a discussion. Multiple blocks could stack into a paper, while individual blocks and papers would generally broaden the surface area for transformative insight.
+Knowledge units could - perhaps automatically - be synthesized into a longer, narrative representation that contextualizes the problem, what the results are (assembled through each building block), and offer a discussion. Multiple blocks of knowledge units could stack into a paper, while individual blocks and papers would generally broaden the surface area for transformative insight.
 
 New investigators could easily narrow in on the part of a field they were interested in and trace ideas more naturally. Back in my day, I was secretly logging into drives of postdocs on our shared network and rummaging through folders of poorly named PDFs!
 
 Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement. It’d be an alternative that proves its value over time.
 
 And with a core, shared structure internally, it’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) and convert them into our new structure so scientists don’t lose anything by moving to a new set of rails.
+
+This new stack would support different types of knowledge. Science today only distributes the type of knowledge that makes it through the publication gauntlet. What about negative results that didn’t make the cut, which are equally important? Or other types of arguments and tacit knowledge that are crucial for understanding something, discussed in lab meetings as a way to teach new researchers, but aren’t distributed evenly across each field?
 
 Unlike our existing stack, this new one would support AI systems that could reason across claims, connect distant fields, and propose new experiments based on the right primitives for each field. 
 
