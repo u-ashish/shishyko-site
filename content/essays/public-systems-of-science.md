@@ -69,7 +69,7 @@ In [her own words](https://tim.blog/2020/12/17/martine-rothblatt-transcript/):
 
 She found a paper reporting a negative result in a different disease, spotted a figure directly relevant to PAH, connected the dots, and quickly moved to form a company - United Therapeutics - and brought this new drug into the market.
 
-What if that figure had never been published? How many other figures and insights are tucked away in slides, notebooks, or the minds of individual scientists, but never made the cut in that chaotic process leading up to a polished paper, or preprint?
+What if that figure had never been published? How many other figures and insights are tucked away in slides, notebooks, or the minds of individual scientists, but never make the cut in that chaotic process leading up to a polished paper, or preprint?
 
 People have increasingly been saying “do the f@$%ing experiment”. I think it’s high time to publish the questions, experiments, claims, and findings as they come about.
 
