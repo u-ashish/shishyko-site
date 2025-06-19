@@ -83,7 +83,7 @@ Unlike our existing stack, this new one would enable AI agents to efficiently re
 
 Most importantly, the new stack isn’t just technical, but social as well. Funders and universities would need to play an important role in driving the adoption of new forms of sharing research, and creating new ways to help investigators demonstrate the impact of their work. 
 
-In a way, the core of this new data model - sharing individual units of knowledge - brings us full circle to an earlier mode of scholarly communication before IMRaD - but now with modern infrastructure and guardrails that enforce data quality and consistency while preserving authorship attribution and invention priority.
+In a way, the core of this new data model - sharing individual units of knowledge - brings us full circle to an earlier mode of scholarly communication before *IMRaD* - but now with modern infrastructure and guardrails that enforce data quality and consistency while preserving authorship attribution and invention priority.
 
 Scientific papers still have a place, but as structured outputs of a deeper, more granular, shared substrate of scientific knowledge.
 
