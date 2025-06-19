@@ -12,17 +12,17 @@ abstract: "What if we didn't collapse all the knowledge from the scientific proc
 
 Not too long ago, there was one dominant way to build software: highly centralized, hierarchical, meticulously planned, opaque. Eventually, a new decentralized mechanism emerged within the Linux ecosystem. It was Darwinian, the way ideas surfaced, evolved, and endured. Though it seemed chaotic from the outside, it proved far more adaptive and transparent
 
-Our current system of science is similarly slow, siloed, and centered around crafted, polished papers. A process that was optimized for a different era. And though this system gave us breakthroughs like CRISPR, CAR-T cell therapy, and so much more, as I reflect on Eric Raymond’s analysis in *The Cathedral and the Bazaar*, I can’t help but wonder how much more we could achieve if we borrowed lessons from the Bazaar.
+Our current system of science is similarly slow, siloed, and centered around crafted, polished papers. A process that was optimized for a different era. And though this system gave us breakthroughs like CRISPR, CAR-T cell therapy, and so much more, as I reflect on Eric Raymond’s analysis in *The Cathedral and the Bazaar*, I can’t help but wonder how much more we could achieve if we borrowed lessons from the Bazaar for science, too.
 
 By rethinking how we represent knowledge at a level deeper than the paper and properly tracking and crediting intellectual contributions of authors, we can lay a new foundation that unlocks a future of science which reflects how science actually happens, with more collaboration, faster iteration, and efficient, transformative discovery.
 
 ### Polish and Perish: The Cathedral Erases Knowledge 
 
-Back in my research days, we'd have weekly lab meetings with our team of overworked, underpaid, unbelievably brilliant scientists.
+In my research days, we'd have weekly lab meetings with our team of overworked, underpaid, unbelievably brilliant scientists.
 
 We'd share updates on experiments and hypotheses, discuss a new paper someone published about a really specific immune target, and show off what we knew.
 
-These meetings were, in a way, our weekly bazaars. Sometimes structured, sometimes chaotic. Full of food – donuts, bagels, and coffee. We didn’t just run off and work by ourselves for months. We had to iterate. Propose ideas, discuss them. It’s how we learned from one another and held each other accountable. All that juicy knowledge tucked away in each of our brains.
+These meetings were, in a way, our weekly bazaars. Sometimes structured, sometimes chaotic. Full of food – donuts, bagels, and coffee. We didn’t just run off and work by ourselves for months. We had to iterate. Propose experiments, discuss them. It’s how we learned from one another and held each other accountable. All that juicy knowledge tucked away in each of our brains.
 
 > "No, no, you can't trust that paper. That PI always fudges their data in these ways. See? I'm not sure we can incorporate those ideas into our own experiments."
 
@@ -37,7 +37,7 @@ Over a period of months to years, we’d analyze data, finish a draft, submit it
 
 Future readers would never know how we got there, only what we chose to include after some intellectual arm-wrestling with our editor and reviewers.
 
-What detours did we take in that process of coming up with hypotheses that sometimes feels like a large-language model hallucinating? Which of those were dead ends? Why? How did we know not to try a certain approach? In what ways did we troubleshoot failures? And of all the authors on this paper, who actually contributed to which parts?
+What detours did we take in that process of coming up with hypotheses that sometimes feels like a large-language model hallucinating? Which of those were dead ends? Why? How did we know not to try a certain approach? In what ways did we troubleshoot failures? And of all the authors on this paper, who actually contributed to which parts, intellectually or otherwise?
 
 Science isn’t done in papers. And their existing format, while well-intentioned, doesn’t adequately capture different types of knowledge that’s generated in the scientific process. To publish today is to polish, and in polishing, we erase. We need to preserve the uncut gems of the scientific process.
 
@@ -45,7 +45,7 @@ Science isn’t done in papers. And their existing format, while well-intentione
 
 The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: it gave scientists a predictable structure to clearly communicate their work, with context, and ensured others could reproduce their experiments. Papers became a way of representing our cumulative knowledge, as peers within fields built off of their collective understanding and approximation of reality.
 
-Before the internet, this infrastructure, or substrate of knowledge was organized at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
+Before the internet, this infrastructure, or substrate for knowledge, was organized at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
 
 But technology transformed what’s possible, and a system that evolved over decades on outdated assumptions couldn’t keep pace.
 
@@ -55,7 +55,7 @@ Though preprints were an important step in improving the speed of knowledge shar
 
 What if the paper itself was decomposed into smaller units of knowledge? Stated differently, what if we published smaller units of knowledge, from which we could assemble papers, and synthesize new ideas?
 
-Some early efforts have tried to move in this direction. There are [Nanopublications](https://nanopub.net/), which allow scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context.
+Some early efforts have tried to move in this direction. There are [nanopublications](https://nanopub.net/), which allow scientists to share the smallest possible unit of publishable information, such as an individual claim with supporting context.
 
 [Discourse Graphs](https://joelchan.me/assets/pdf/Discourse_Graphs_for_Augmented_Knowledge_Synthesis_What_and_Why.pdf), developed by Dr. Joel Chan and others, mimic the research process itself: iteratively asking questions and attempting to invalidate hypotheses. They model ideas into a modular graph composed of questions, claims, and evidence. Each node can be attributed, versioned, and connected to others, making it possible to track the evolution of thought over time. They enable insights from researchers to be published in smaller chunks - like code commits in software development - while maintaining traceability, credit, and context.
 
