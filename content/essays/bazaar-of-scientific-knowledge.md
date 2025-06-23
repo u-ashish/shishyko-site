@@ -3,7 +3,7 @@ title: "The Bazaar of Scientific Knowledge"
 series: "SciOS"
 author: "Ashish Uppala"
 date: "June 2025"
-abstract: "Is the current form of the scientific paper still optimal in 2025? Are there other alternatives? What potential do they have?"
+abstract: "Is the current form of the scientific paper still optimal in 2025? How do we preserve, and efficiently leverage, the uncut gems of the scientific process?"
 ---
 
 > I believed that the most important software [...] needed to be built like cathedrals, carefully crafted by individual wizards or small bands of mages working in splendid isolation... the Linux community seemed to resemble a great babbling bazaar of differing agendas and approaches out of which a coherent and stable system could seemingly emerge. - Eric Raymond, The Cathedral and the Bazaar
@@ -43,7 +43,7 @@ Science isn’t done in papers. And their existing format, while well-intentione
 
 The familiar form of the scientific paper - Introduction, Methods, Results, and Discussion - solved a real problem: it gave scientists a predictable structure to clearly communicate their work, with context, and ensured others could reproduce their experiments. Papers became a way of representing our cumulative knowledge, as peers within fields built off of their collective understanding and approximation of reality.
 
-Before the internet, this infrastructure, or substrate for knowledge, was organized at what I call people scale: the natural limits at which a group of people can reasonably organize and do things.
+Before the internet, this infrastructure, or substrate for knowledge, was organized at _people scale_: the natural limits at which a group of people can reasonably organize and do things.
 
 But technology transformed what’s possible, and a system that evolved over decades on outdated assumptions couldn’t keep pace.
 
@@ -59,13 +59,13 @@ Some early efforts have tried to move in this direction. There are [nanopublicat
 
 While these new approaches show promise in re-calibrating what counts as “publishable”, what they lack are reasons for adoption, positioning for scale across and within disciplines, a pathway for interoperability with existing scientific infrastructure today, and top-down support from funders to help drive change.
 
-### Scientific Collaboration Infrastructure
+### Infrastructure for Scientific Collaboration at Scale
 
-What's necessary is new infrastructure that would go beyond letting researchers track questions, claims, and evidence in their note-taking tools. One which unifies that granular element of scientific inquiry in a centralized graph with permission boundaries for public domain, the scope of a lab, and so on.
+What's necessary is infrastructure that goes beyond letting researchers track questions, claims, and evidence in their note-taking tools. One which unifies that granular element of scientific inquiry in a centralized graph with permission boundaries for public domain, the scope of a lab, and so on.
 
-Of course, not everything in research is text: sometimes we have datasets, complex figures, videos, so multimodal support would be essential. And like existing science, it would need the concept of citations, but not just between papers to papers, but expanded to more types of nodes in the graph, e.g. to a type of dataset, software, or chart.
+Of course, not everything in research is text: sometimes we have datasets, complex figures, videos, so multimodal support is essential. And like existing science, it would need the concept of citations, not just between papers to papers, but expanded to more types of nodes in the graph, e.g. to a type of dataset, software, or chart.
 
-Authorship would be tracked similar to commits in git, unlocking new ways of recognizing the contributions of individual scientists. There’s no reason that career outcomes in science should be as bimodally distributed as they are. Imagine a more liquid job market for researchers, who can easily point to the thing they did and meaningfully demonstrate its downstream impact to have more optionality in their careers.
+Authorship would be tracked similar to code commits (think of github), unlocking new ways of recognizing the contributions of individual scientists. There’s no reason that career outcomes in science should be as bimodally distributed as they are. Imagine a more liquid job market for researchers, who can easily point to the thing they did and meaningfully demonstrate its downstream impact to have more optionality in their careers.
 
 Knowledge units could - perhaps automatically - be synthesized into a longer, narrative representation that contextualizes the problem, what the results are (assembled through each building block), and offer a discussion. Multiple blocks of knowledge units could stack into a paper, while individual blocks and papers would generally broaden the surface area for transformative insight.
 
@@ -73,15 +73,17 @@ New investigators could easily narrow in on the part of a field they were intere
 
 Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement, but a viable alternative that proves its value over time.
 
-Does this mean that every researcher suddenly has to adopt yet another new tool? Not necessarily. If there was a common data infrastructure, imagine having AI agents that parsed your notes or powerpoint slides, wherever they were, and generated these more granular units, and brought them into the central graph (with your review). It’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) into this new structure so scientists don’t lose anything by moving over.
+Does this mean that every researcher suddenly has to adopt yet another new tool? Not necessarily. A common data infrastructure means that AI agents could parse your notes or powerpoint slides, wherever they were, generate these more granular units, and bring them into the central graph (with your review). It’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) into this new structure so scientists don’t lose anything by moving over.
 
 This new stack would support different types of knowledge. Science today only distributes the type of knowledge that makes it through the publication gauntlet. What about negative results that didn’t make the cut, which are equally important? Or other types of arguments and tacit knowledge that are crucial for understanding something, discussed in lab meetings as a way to teach new researchers, but aren’t distributed evenly across each field?
 
-Unlike our existing stack, this new one would enable AI agents to efficiently reason across claims, connect distant fields, and propose new experiments based on the right primitives for each field. 
+Unlike our existing stack, this one would enable AI agents to efficiently reason across claims, connect distant fields, and propose new experiments based on the right primitives for each field.
 
-Most importantly, the new stack isn’t just technical, but social as well. Funders and universities would need to play an important role in driving the adoption of new forms of sharing research, and creating new ways to help investigators demonstrate the impact of their work. 
+Most importantly, this isn't primarily a technical problem, but a social one. Funders and universities have an important role in driving the adoption of new forms of sharing research, and creating new ways to help investigators demonstrate the impact of their work.
 
-In a way, the core of this new data model - sharing individual units of knowledge - brings us full circle to an earlier mode of scholarly communication before *IMRaD* - but now with modern infrastructure and guardrails that enforce data quality and consistency while preserving authorship attribution and invention priority.
+Some of this is already happening in fragmented ways across disciplines and across the ecosystem. Consider computational fields that embrace open science and create public datasets for sharing and reuse by others, which opens new doors for communicating researcher impact (how many times a dataset was used, where it was used, etc.). How do we extend that to different types of knowledge in a way that can scale?
+
+The core of this new data model - sharing individual units of knowledge - brings us full circle to an earlier mode of scholarly communication before *IMRaD* - but now with modern infrastructure and guardrails that enforce data quality and consistency while preserving authorship attribution and invention priority.
 
 Scientific papers would still have a place, but as structured outputs of a deeper, more granular, shared substrate of scientific knowledge.
 
@@ -107,8 +109,10 @@ Such a future isn't about one particular technology, but a shift in how scientis
 
 This future certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, this public version of science may appear messy. But I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
+---
+
 *This is part of a series where I conceptually explore a world where augmented scientists work iteratively, in public, and the sort of things that have to be systemically true to support that future. I'd love to hear from anyone excited, or completely appalled, by this. Please get in touch at shishyko@gmail.com*
 
 *Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for their thoughtful responses to my incoherent babbling.*
 
-_This is a continuation of my previous rambling from ["A New Scientific Operating System"](https://www.shishyko.com/essays/scientific-operating-system.html). To subscribe to the newsletter, fill out your email [at the bottom of the page](https://www.shishyko.com/index.html#contact)._
+_This is a continuation of [A New Scientific Operating System](https://www.shishyko.com/essays/scientific-operating-system.html). To subscribe to the newsletter, fill out your email [at the bottom of the page](https://www.shishyko.com/index.html#contact)._

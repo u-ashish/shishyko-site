@@ -156,6 +156,8 @@ If you're interested in exploring some of these ideas or building toward the fut
 
 I'm especially looking for active scientists in different disciplines that want to share their perspectives on some of these ideas - through review, or follow-up interviews.
 
+---
+
 _Thanks to [Philip Thomas](https://www.philipithomas.com/) and [Eamon Duede](https://eamonduede.com/) for sharing their feedback, and to anyone else on the internet who calls out something dumb I wrote :)!_
 
 _This is loosely continued in ["The Bazaar of Scientific Knowledge"](https://www.shishyko.com/essays/bazaar-of-scientific-knowledge.html). To subscribe to the newsletter, fill out your email [at the bottom of the page](https://www.shishyko.com/index.html#contact)._
