@@ -3,10 +3,8 @@ title: "The Bazaar of Scientific Knowledge"
 series: "SciOS"
 author: "Ashish Uppala"
 date: "June 2025"
-abstract: "What if we didn't collapse all the knowledge from the scientific process into one paper?"
+abstract: "Is the current form of the scientific paper still optimal in 2025? Are there other alternatives? What potential do they have?"
 ---
-
-#### NOTE! This is just a draft, is being actively edited, and is under review for publishing elsewhere (maybe). Sharing here to avoid the irony!
 
 > I believed that the most important software [...] needed to be built like cathedrals, carefully crafted by individual wizards or small bands of mages working in splendid isolation... the Linux community seemed to resemble a great babbling bazaar of differing agendas and approaches out of which a coherent and stable system could seemingly emerge. - Eric Raymond, The Cathedral and the Bazaar
 
@@ -73,9 +71,9 @@ Knowledge units could - perhaps automatically - be synthesized into a longer, na
 
 New investigators could easily narrow in on the part of a field they were interested in and trace ideas more naturally. Back in my day, I was secretly logging into drives of postdocs on our shared network and rummaging through folders of poorly named PDFs!
 
-Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement. It’d be an alternative that proves its value over time.
+Most ideas around interventions for metascience fall short when positioned as a replacement for something that everyone is incentivized to keep. This new stack wouldn’t have to be a replacement, but a viable alternative that proves its value over time.
 
-Does this mean that every researcher suddenly has to adopt yet another new tool? Not necessarily. If there was a common data infrastructure, imagine having AI agents that parsed your notes or powerpoint slides, wherever they were, and generated these more granular units, and brought them into the central graph (with your review). It’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) into our new structure so scientists don’t lose anything by moving to a new set of rails.
+Does this mean that every researcher suddenly has to adopt yet another new tool? Not necessarily. If there was a common data infrastructure, imagine having AI agents that parsed your notes or powerpoint slides, wherever they were, and generated these more granular units, and brought them into the central graph (with your review). It’d even be possible to leverage state of the art reasoning models to map existing knowledge published across all scientific papers (PDFs, XML, even OCR’d documents) into this new structure so scientists don’t lose anything by moving over.
 
 This new stack would support different types of knowledge. Science today only distributes the type of knowledge that makes it through the publication gauntlet. What about negative results that didn’t make the cut, which are equally important? Or other types of arguments and tacit knowledge that are crucial for understanding something, discussed in lab meetings as a way to teach new researchers, but aren’t distributed evenly across each field?
 
@@ -85,7 +83,7 @@ Most importantly, the new stack isn’t just technical, but social as well. Fund
 
 In a way, the core of this new data model - sharing individual units of knowledge - brings us full circle to an earlier mode of scholarly communication before *IMRaD* - but now with modern infrastructure and guardrails that enforce data quality and consistency while preserving authorship attribution and invention priority.
 
-Scientific papers still have a place, but as structured outputs of a deeper, more granular, shared substrate of scientific knowledge.
+Scientific papers would still have a place, but as structured outputs of a deeper, more granular, shared substrate of scientific knowledge.
 
 Imagine if questions, claims, and findings from lab meetings and experiments were documented in a living, explorable graph, published as they came about, and were unified across all labs. Not buried in notebooks, slides, and brains, but organized and discoverable with proper attribution -- by scientists, and those adjacent.
 
@@ -103,12 +101,14 @@ What if that figure had never been published? How many other figures and insight
 
 People have increasingly been saying “do the f@$%ing experiment”. I think it’s high time to publish the questions, experiments, claims, and findings as they come about.
 
-By re-thinking the underlying representation of knowledge, and the funding and technology stack that helps us maintain and scale it, we can move towards a future where scientists and innovators can share knowledge faster and leverage evidence more effectively. One where they can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
+By re-thinking the underlying representation of knowledge, and the funding and technology stack that helps us maintain and scale it, we can move towards a future where knowledge is shared faster, and where we're able to leverage evidence much more effectively. One where scientists can spark transformative insights beyond their own epistemic bubbles, and receive credit that reflects their real contributions.
 
 Such a future isn't about one particular technology, but a shift in how scientists work, new ways of augmenting them with technology, all while preserving the basic tenets of scientific inquiry. It [needs new infrastructure](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4EXyZ14AAAAJ&sortby=pubdate&citation_for_view=4EXyZ14AAAAJ:SIv7DqKytYAC) to ensure scientists, funders, and others are incentivized to openly share knowledge as it's developed.
 
 This future certainly won't be built through top-down, hierarchical coordination. Like the Bazaar, this public version of science may appear messy. But I’ll bet the end result is far more powerful than we’ve dared to imagine.
 
-*This is the first part of a series where I conceptually explore a future of science where augmented scientists work iteratively, in public, and the sort of things that have to be systemically true to support that future. I'd love to hear from anyone excited, or completely appalled, by this. Please get in touch at shishyko@gmail.com*
+*This is part of a series where I conceptually explore a world where augmented scientists work iteratively, in public, and the sort of things that have to be systemically true to support that future. I'd love to hear from anyone excited, or completely appalled, by this. Please get in touch at shishyko@gmail.com*
 
-*Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for listening to me babble about this in recent conversations.*
+*Many thanks to Niko McCarthy, John Wilbanks, and Karthik Ram for their thoughtful responses to my incoherent babbling.*
+
+_This is a continuation of my previous rambling from ["A New Scientific Operating System"](https://www.shishyko.com/essays/scientific-operating-system.html). To subscribe to the newsletter, fill out your email [at the bottom of the page](https://www.shishyko.com/index.html#contact)._
