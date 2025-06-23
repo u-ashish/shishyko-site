@@ -61,7 +61,7 @@ While these new approaches show promise in re-calibrating what counts as “publ
 
 ### Scientific Collaboration Infrastructure
 
-This new infrastructure would need to go beyond letting researchers track questions, claims, and evidence in their note-taking tools. It’d need to unify that granular element of scientific inquiry in a centralized graph with permission boundaries for public domain, the scope of a lab, and so on.
+What's necessary is new infrastructure that would go beyond letting researchers track questions, claims, and evidence in their note-taking tools. One which unifies that granular element of scientific inquiry in a centralized graph with permission boundaries for public domain, the scope of a lab, and so on.
 
 Of course, not everything in research is text: sometimes we have datasets, complex figures, videos, so multimodal support would be essential. And like existing science, it would need the concept of citations, but not just between papers to papers, but expanded to more types of nodes in the graph, e.g. to a type of dataset, software, or chart.
 
