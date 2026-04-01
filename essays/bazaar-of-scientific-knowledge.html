@@ -6,12 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../styles.css">
     <link rel="stylesheet" href="essay-styles.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap">
 </head>
-<body>
+<body data-barba="wrapper">
     <div class="textured-background-plus"></div>
     <header role="banner">
         <a href="../index.html" class="logo">
@@ -24,7 +23,7 @@
         </nav>
     </header>
 
-    <main>
+    <main data-barba="container" data-barba-namespace="essay">
         <div class="essay-header">
             <div class="essay-header-content">
                 <h1>The Bazaar of Scientific Knowledge</h1>
@@ -36,7 +35,7 @@
                 </div>
             </div>
         </div>
-            
+
         <article class="essay-content">
             <div class="essay-body">
                 <blockquote>
@@ -104,7 +103,7 @@
         </article>
 
         <section id="contact">
-            <div class="section-header">━━ contact</div>
+            <div class="section-header">Contact</div>
             <div class="contact-container">
 
                 <p class="lead">For inquiries and chit-chat: <a href="mailto:shishyko@gmail.com">shishyko@gmail.com</a></p>
@@ -116,9 +115,6 @@
                     onsubmit='window.open("https://buttondown.email/shishyko", "popupwindow")'
                     class="email-card"
                 >
-                    <!-- <span class="newsletter-cta">
-                    Read new posts in your inbox
-                    </span> -->
                     <div class="newsletter-inputs">
                     <input type="email" name="email" id="bd-email" placeholder="Your email address" />
                     <input type="submit" value="Subscribe" id="bd-submit" />
@@ -126,6 +122,12 @@
                 </form>
             </div>
         </section>
+
+        <footer class="site-footer">
+            <span class="footer-mark">*</span>
+        </footer>
     </main>
+    <script src="https://unpkg.com/@barba/core@2.10.3/dist/barba.umd.js"></script>
+    <script src="../transitions.js"></script>
 </body>
-</html> 
+</html>

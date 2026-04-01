@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap">
+    <link rel="stylesheet" href="essay-styles.css">
 </head>
-<body>
+<body data-barba="wrapper">
     <div class="textured-background-plus"></div>
     <header role="banner">
         <a href="/" class="logo">
@@ -23,52 +23,43 @@
         </nav>
     </header>
 
-    <main>
+    <main data-barba="container" data-barba-namespace="home">
         <h1>
             <span class="header-logo">shishyko!</span> is a design studio that takes tiny stabs at big problems, through <span class="italic">written explorations</span> and <span class="italic">thoughtfully crafted tools</span>.
         </h1>
 
         <section id="writing" class="homepage-section">
-            <div class="section-header">━━ writing</div>
-            
-            <div class="essay-series">
-                <p class="series-description"><span class="series-title">SciOS </span>is a series that explores the opportunity we have, now, to create a new operating system for science.</p>
-                
-                <div class="essays-grid">
-                    <a href="essays/scientific-operating-system.html" class="essay essay-link">
-                        <div class="essay-title">A New Scientific Operating System</div>
-                        <div class="essay-meta">Essay • June 2025</div>
-                        <p class="essay-description">AI, and other "black swan" events, are transforming how we do science. How do we create the right kind of change that science needs?</p>
-                        <div class="essay-status">Read Now</div>
+            <div class="writing-section-layout">
+                <div class="writing-section-label">
+                    <span class="writing-label-text">Writing</span>
+                </div>
+                <div class="essay-list">
+                    <a href="essays/scientific-operating-system.html" class="essay-list-item">
+                        <span class="essay-list-title">A New Scientific Operating System</span>
+                        <span class="essay-list-detail">
+                            <span class="essay-list-tag">SciOS</span>
+                            <span class="essay-list-date">2025.06</span>
+                        </span>
                     </a>
-                    <a href="essays/bazaar-of-scientific-knowledge.html" class="essay essay-link">
-                        <div class="essay-title">The Bazaar of Scientific Knowledge</div>
-                        <div class="essay-meta">Essay • June 2025</div>
-                        <p class="essay-description">Is the current form of the scientific paper still optimal in 2025? How do we preserve, and efficiently leverage, the uncut gems of the scientific process?</p>
-                        <div class="essay-status">Read Now</div>
+                    <a href="essays/bazaar-of-scientific-knowledge.html" class="essay-list-item">
+                        <span class="essay-list-title">The Bazaar of Scientific Knowledge</span>
+                        <span class="essay-list-detail">
+                            <span class="essay-list-tag">SciOS</span>
+                            <span class="essay-list-date">2025.06</span>
+                        </span>
                     </a>
-                    <a href="#" class="essay essay-link">
-                        <div class="essay-title">The Augmented Scientist</div>
-                        <div class="essay-meta">Essay • July 2025</div>
-                        <p class="essay-description">If the right infrastructure is in place, what does it unlock in our ability to augment scientists with AI agents? How might their workflows change?</p>
-                        <div class="essay-status">Still Drafting</div>
-                    </a>
-                    <a href="#" class="essay essay-link">
-                        <div class="essay-title">Closed, Open, Hybrid Models of Building</div>
-                        <div class="essay-meta">Essay • July 2025</div>
-                        <p class="essay-description">How should we think about different business models for companies in this space? How does generative AI change that, if at all?</p>
-                        <div class="essay-status">Still Drafting</div>
-                    </a>
+                    <span class="essay-list-item essay-list-item--upcoming">
+                        <span class="essay-list-title">The Natural Currents of Our Time</span>
+                        <span class="essay-list-detail">
+                            <span class="essay-list-status">Coming Soon</span>
+                        </span>
+                    </span>
                 </div>
             </div>
         </section>
 
-        <section id="future-products" class="homepage-section">
-            <div class="section-header">━━ tools & experimental ideas</div>
-            <p class="lead">Stay tuned for concepts and goodies to test out here :).</p>
-        </section>
         <section id="contact">
-            <div class="section-header">━━ contact</div>
+            <div class="section-header">Contact</div>
             <div class="contact-container">
 
                 <p class="lead">For inquiries and chit-chat: <a href="mailto:shishyko@gmail.com">shishyko@gmail.com</a></p>
@@ -80,9 +71,6 @@
                     onsubmit='window.open("https://buttondown.email/shishyko", "popupwindow")'
                     class="email-card"
                 >
-                    <!-- <span class="newsletter-cta">
-                    Read new posts in your inbox
-                    </span> -->
                     <div class="newsletter-inputs">
                     <input type="email" name="email" id="bd-email" placeholder="Your email address" />
                     <input type="submit" value="Subscribe" id="bd-submit" />
@@ -90,6 +78,12 @@
                 </form>
             </div>
         </section>
+
+        <footer class="site-footer">
+            <span class="footer-mark">*</span>
+        </footer>
     </main>
+    <script src="https://unpkg.com/@barba/core@2.10.3/dist/barba.umd.js"></script>
+    <script src="transitions.js"></script>
 </body>
-</html> 
+</html>
